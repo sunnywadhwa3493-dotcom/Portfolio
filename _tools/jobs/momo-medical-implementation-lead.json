@@ -1,0 +1,72 @@
+{
+ "company": "Momo Medical",
+ "role": "Implementation Lead, Southern Ontario",
+ "variant": "impl",
+ "headline": "Clinical Implementation Lead | Health-Tech Adoption | MBBS-Trained Physician",
+ "summary": "Implementation lead with four years at Greenway Health owning end-to-end EHR implementations for two strategic clients, from discovery and setup through training and adoption. Trained 200+ providers, nurse practitioners, nurses and medical assistants, and turned what users told me into features the product team shipped. MBBS-trained physician who has trained nursing teams on the floor, so I speak the language of care staff and managers alike. Based in Fort Erie and comfortable travelling across Southern Ontario.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for two strategic clients, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Implementation",
+   "business discovery, requirements gathering, current- and future-state workflow mapping, system configuration, go-live and setup support, on-site training and support"
+  ],
+  [
+   "Training and adoption",
+   "role-based end-user training, clinical staff training, SOP writing, user adoption, stakeholder communication"
+  ],
+  [
+   "Quality and clinical",
+   "defect triage, patient safety review, stage-gate release, clinical documentation workflows, emergency, ICU and inpatient care"
+  ]
+ ],
+ "thesis_html": "Care staff adopt what <em>fits</em> their shift. I make sure it does.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "2",
+   "Strategic implementations owned"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "End-to-end implementations",
+   "Intro to evaluation, owned by me",
+   "Two strategic EHR implementations from discovery through adoption."
+  ],
+  [
+   "Train care staff",
+   "200+ users, nurses included",
+   "Plus 12+ ICU nurses trained during COVID and 500+ people in occupational health."
+  ],
+  [
+   "Feedback into product",
+   "User friction became features",
+   "I took recurring pain points to product; many requests shipped."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Momo_Medical.pdf"
+}

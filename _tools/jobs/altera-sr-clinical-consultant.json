@@ -1,0 +1,73 @@
+{
+ "company": "Altera Digital Health",
+ "role": "Sr Clinical Consultant",
+ "variant": "impl",
+ "headline": "MBBS-Trained Physician | Clinical Consultant for EHR Workflow, Training and Change",
+ "summary": "MBBS-trained physician with emergency medicine, ICU and occupational health practice and four years as Clinical Advisor at Greenway Health, a US EHR company. I assess clinical practices and workflows, design practice-specific EHR workflows, and design and deliver training to clinical staff (200+ users trained). On Greenway's Patient Safety Committee and Clinical Content Team I triaged patient-safety issues through release and reviewed clinical literature for evidence-based EHR content. I led clinical input on a new AI-first EHR, from provider personas to end-to-end workflow maps.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for two strategic clients, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Clinical consulting",
+   "clinical needs assessment, clinical workflow analysis, change management, stakeholder engagement"
+  ],
+  [
+   "Training",
+   "clinical training design and delivery, SOP writing, clinical staff education"
+  ],
+  [
+   "Quality",
+   "patient safety, evidence-based practice, clinical content review, EHR and health informatics"
+  ]
+ ],
+ "thesis_html": "A physician's eye on <em>clinical</em> change, with four years inside an EHR company.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "2",
+   "Strategic implementations owned"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Physician by trade",
+   "MBBS, emergency and ICU",
+   "Clinical practice in a Level 1 trauma centre and a COVID ICU."
+  ],
+  [
+   "Workflow and training",
+   "Assessed, designed, trained",
+   "Two client organisations assessed; 200+ clinical staff trained."
+  ],
+  [
+   "Safety and evidence",
+   "Committee and content work",
+   "Patient Safety Committee and Clinical Content Team at Greenway."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "safety",
+  "training",
+  "aiehr"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Altera_Sr_Clinical.pdf"
+}

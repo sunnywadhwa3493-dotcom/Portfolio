@@ -1,0 +1,72 @@
+{
+ "company": "Maple",
+ "role": "Product Manager",
+ "variant": "product",
+ "headline": "Product Manager | Healthcare and AI Products | MBBS-Trained Physician",
+ "summary": "Product builder with deep healthcare roots. Founder of Roovero, an AI-powered SaaS product I took from discovery to launch and now iterate with paying pilot clients, building hands-on with AI tools. Four years at Greenway Health shaping EHR products, including clinical lead for a new AI-first EHR. MBBS-trained physician with emergency, ICU and teleconsultation experience, so I understand where patients struggle to reach care and what safe, trustworthy AI in healthcare requires.",
+ "greenway_bullets": [
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas and user goals, mapped end-to-end clinical workflows and identified where agentic automation could remove clinician burden.",
+  "Turned clinician needs into UX designs and interactive React prototypes built with AI tools, aligning product, engineering and clients before engineering handoff.",
+  "Advised product and design teams on a platform serving 100+ enrolled practices; many features I shaped or advocated for shipped to clients with positive feedback.",
+  "Owned implementations for two strategic clients: ran discovery on pain points, configured practice-specific workflows, trained 200+ providers, NPs, nurses and medical assistants, and turned recurring friction into feature requests the product team built.",
+  "Patient Safety Committee, Functional Advisory Committee and Clinical Content Team: triaged defects and patient safety issues through stage-gate release.",
+  "Presented product and AI feature concepts to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Product",
+   "discovery, user research, journey mapping, personas, requirements, prioritisation, prototyping, experimentation and iteration, stakeholder alignment, go-to-market"
+  ],
+  [
+   "AI",
+   "multi-model integration and routing, prompt design, evaluation rubrics, agentic workflow scoping, AI safety in clinical contexts"
+  ],
+  [
+   "Build",
+   "React, Flutter, Firebase, Next.js, Claude Code, Codex, GitHub, n8n, Razorpay billing and webhooks"
+  ]
+ ],
+ "thesis_html": "I treated patients over a screen. Now I want to <em>build</em> how Canadians reach care.",
+ "facts": [
+  [
+   "Paying pilots",
+   "Roovero, launched and iterating"
+  ],
+  [
+   "4 years",
+   "EHR products at Greenway Health"
+  ],
+  [
+   "100+",
+   "Practices on the platform I advised on"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Builder mentality",
+   "I prototype and ship with AI tools",
+   "Roovero went from idea to paying pilots, built by me with Claude Code and Codex."
+  ],
+  [
+   "Patient access",
+   "I know where patients get stuck",
+   "Emergency, ICU and teleconsultation work showed me the journey from symptom to care."
+  ],
+  [
+   "AI with trust",
+   "Safety is part of the product",
+   "Patient Safety Committee at Greenway; I grade clinical AI for accuracy at Outlier."
+  ]
+ ],
+ "cases": [
+  "roovero",
+  "aiehr",
+  "safety",
+  "aieval"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Maple.pdf"
+}

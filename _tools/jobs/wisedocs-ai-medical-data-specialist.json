@@ -1,0 +1,69 @@
+{
+ "company": "Wisedocs",
+ "role": "AI Medical Data Specialist",
+ "variant": "ai",
+ "headline": "Clinical AI Evaluator | Medical Prompt Testing and QA | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician who tests and evaluates medical AI. At Outlier since December 2025, I write clinical prompts and expert reference answers, build scoring rubrics, and grade and compare outputs from ChatGPT, Gemini and Claude for accuracy and clinical validity. Four years as Clinical Advisor at Greenway Health taught me how clinical software fails: I triaged defects and patient-safety issues through release and was clinical lead on a new AI-first EHR. I also wrote SOPs as an occupational health physician.",
+ "greenway_bullets": [
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
+  "Reviewed clinical literature on the Clinical Content Team to keep EHR content aligned with guidelines."
+ ],
+ "skills": [
+  [
+   "AI evaluation",
+   "medical prompt testing, prompt engineering, scoring rubrics, clinical validity and accuracy review, LLMs (ChatGPT, Gemini, Claude)"
+  ],
+  [
+   "Quality",
+   "QA, defect triage, patient safety, SOP writing, documentation"
+  ],
+  [
+   "Clinical",
+   "emergency, ICU and occupational health practice, clinical guidelines"
+  ]
+ ],
+ "thesis_html": "I can tell when an answer is <em>plausible</em> but clinically wrong.",
+ "facts": [
+  [
+   "Since Dec 2025",
+   "Clinical AI evaluation at Outlier"
+  ],
+  [
+   "3 models",
+   "ChatGPT, Gemini, Claude graded"
+  ],
+  [
+   "4 years",
+   "Clinical software at Greenway"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Test AI outputs",
+   "I do this now",
+   "Clinical prompts, reference answers and rubrics at Outlier."
+  ],
+  [
+   "QA mindset",
+   "Defects caught before release",
+   "Patient Safety Committee triage at Greenway."
+  ],
+  [
+   "SOPs",
+   "Written and used",
+   "Occupational health SOPs; workflow documentation for clients."
+  ]
+ ],
+ "cases": [
+  "aieval",
+  "safety",
+  "aiehr"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Wisedocs.pdf"
+}

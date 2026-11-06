@@ -1,0 +1,14 @@
+@page{size:letter;margin:0.55in 0.65in}
+body{font-family:"Helvetica Neue",Arial,sans-serif;font-size:10.2pt;line-height:1.32;color:#1a1a1a;margin:0}
+h1{font-size:19pt;margin:0 0 2pt;letter-spacing:.3px}
+.title{font-weight:600;color:#2b4a6f;font-size:10.5pt;margin-bottom:2pt}
+.contact{font-size:9.5pt;color:#444;margin-bottom:8pt}
+.contact a{color:#444;text-decoration:none}
+h2{font-size:10.5pt;text-transform:uppercase;letter-spacing:1px;color:#2b4a6f;border-bottom:1px solid #2b4a6f;padding-bottom:2pt;margin:11pt 0 5pt}
+.role{display:flex;justify-content:space-between;font-weight:700;margin-top:6pt}
+.role span:last-child{font-weight:400;color:#444;white-space:nowrap}
+ul{margin:2pt 0 0 0;padding-left:14pt}
+li{margin-bottom:2pt}
+p{margin:0}
+.skills li{margin-bottom:1.5pt}
+.keep{break-inside:avoid}

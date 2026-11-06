@@ -1,0 +1,72 @@
+{
+ "company": "WELLSTAR",
+ "role": "Product Owner",
+ "variant": "product",
+ "headline": "Product Owner | Clinical and AI Health-Tech Products | MBBS-Trained Physician",
+ "summary": "Product owner with clinical depth. At Greenway Health I was clinical lead for a new AI-first EHR, defining personas and workflows and prototyping features that shipped to clients. I also founded Roovero, an AI SaaS product I own end to end, from backlog and requirements to the build and iteration with paying pilot clients. As an MBBS-trained physician I bring the clinician's view to every prioritisation call, and I can turn it into working software quickly.",
+ "greenway_bullets": [
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas and user goals, mapped end-to-end clinical workflows and identified where agentic automation could remove clinician burden.",
+  "Turned clinician needs into UX designs and interactive React prototypes built with AI tools, aligning product, engineering and clients before engineering handoff.",
+  "Advised product and design teams on a platform serving 100+ enrolled practices; many features I shaped or advocated for shipped to clients with positive feedback.",
+  "Owned implementations for two strategic clients: ran discovery on pain points, configured practice-specific workflows, trained 200+ providers, NPs, nurses and medical assistants, and turned recurring friction into feature requests the product team built.",
+  "Patient Safety Committee, Functional Advisory Committee and Clinical Content Team: triaged defects and patient safety issues through stage-gate release.",
+  "Presented product and AI feature concepts to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Product",
+   "discovery, user research, journey mapping, personas, requirements, prioritisation, prototyping, experimentation and iteration, stakeholder alignment, go-to-market"
+  ],
+  [
+   "AI",
+   "multi-model integration and routing, prompt design, evaluation rubrics, agentic workflow scoping, AI safety in clinical contexts"
+  ],
+  [
+   "Build",
+   "React, Flutter, Firebase, Next.js, Claude Code, Codex, GitHub, n8n, Razorpay billing and webhooks"
+  ]
+ ],
+ "thesis_html": "Tools that give clinicians <em>time</em> back. I've built them from both sides.",
+ "facts": [
+  [
+   "Paying pilots",
+   "Roovero, launched and iterating"
+  ],
+  [
+   "4 years",
+   "EHR products at Greenway Health"
+  ],
+  [
+   "100+",
+   "Practices on the platform I advised on"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Clinician-facing SaaS",
+   "Four years shaping an EHR",
+   "Clinical lead on an AI-first EHR and advisor on a platform serving 100+ practices."
+  ],
+  [
+   "Backlog ownership",
+   "I own a product end to end",
+   "Roovero: requirements, prioritisation, build and iteration with paying pilots."
+  ],
+  [
+   "Clinical credibility",
+   "MBBS-trained physician",
+   "I speak providers' language and test ideas against real clinical workflows."
+  ]
+ ],
+ "cases": [
+  "aiehr",
+  "roovero",
+  "impl",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_WELLSTAR_PO.pdf"
+}
