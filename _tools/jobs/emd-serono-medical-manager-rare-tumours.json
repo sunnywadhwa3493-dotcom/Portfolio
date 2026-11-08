@@ -1,0 +1,71 @@
+{
+ "company": "EMD Serono",
+ "role": "Medical Manager, Rare Tumours",
+ "variant": "impl",
+ "headline": "MBBS-Trained Physician | Clinical Evidence, Medical Education and Stakeholder Engagement",
+ "summary": "MBBS-trained physician with emergency, ICU and occupational health practice and four years in health technology at Greenway Health. I translate clinical evidence for varied audiences: I reviewed clinical literature for evidence-based EHR content, presented to clinicians at Greenway's provider conference and to client leadership, and trained 200+ providers, nurse practitioners, nurses and medical assistants. On the Patient Safety Committee I triaged safety issues through release, and at Outlier I build rubrics that test frontier AI for clinical accuracy. I'm looking to bring that scientific rigour and clinician-facing communication into medical affairs.",
+ "greenway_bullets": [
+  "Reviewed clinical literature on the Clinical Content Team to keep EHR clinical content evidence-based and aligned with guidelines.",
+  "Presented clinical and product concepts to provider audiences at the Greenway Engage conference and directly to client clinical leadership.",
+  "Designed and delivered training for 200+ clinicians and staff, including providers, nurse practitioners, nurses and medical assistants.",
+  "Patient Safety Committee member: triaged patient safety issues and defects from detection through stage-gate release, working with product, engineering and leadership.",
+  "Built trusted relationships with two strategic client organizations as their main clinical contact, translating clinician needs into product decisions.",
+  "Clinical lead for a new AI-first EHR: defined provider personas, mapped end-to-end clinical workflows and partnered cross-functionally before engineering handoff."
+ ],
+ "skills": [
+  [
+   "Scientific communication",
+   "clinical literature review, evidence synthesis, presentations to clinicians and leadership, clinician education and training"
+  ],
+  [
+   "Cross-functional",
+   "stakeholder relationships, patient safety review, working with product, engineering and leadership, ethical and compliant conduct"
+  ],
+  [
+   "Clinical",
+   "emergency medicine, critical care, occupational health, clinical AI evaluation and rubric design"
+  ]
+ ],
+ "thesis_html": "Turning clinical <em>evidence</em> into something clinicians can use.",
+ "facts": [
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ],
+  [
+   "2.5 years",
+   "Emergency, ICU and occupational health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Scientific communication",
+   "Evidence to clinicians",
+   "Clinical literature review for EHR content; presentations to provider audiences."
+  ],
+  [
+   "Medical education",
+   "Training clinicians",
+   "200+ clinicians trained; 12+ ICU nurses during COVID; 500+ in occupational health."
+  ],
+  [
+   "Medical independence",
+   "Safety and rigour first",
+   "Patient Safety Committee triage; clinical-accuracy rubrics for AI at Outlier."
+  ]
+ ],
+ "cases": [
+  "safety",
+  "training",
+  "aieval"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_EMD_Serono.pdf"
+}
