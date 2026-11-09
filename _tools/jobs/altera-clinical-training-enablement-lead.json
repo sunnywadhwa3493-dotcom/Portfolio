@@ -1,0 +1,72 @@
+{
+ "company": "Altera Digital Health",
+ "role": "Clinical Training & Enablement Lead",
+ "variant": "impl",
+ "headline": "Clinical Training and Enablement Lead | EHR Implementation Training | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, leading training and adoption inside end-to-end EHR implementations for two strategic clients. I documented clinical workflows, configured practice-specific workflows, and trained 200+ end users, from providers and nurse practitioners to nurses and medical assistants. I have trained adult learners across settings: 500+ people as an occupational health physician (with SOPs I wrote) and 12+ nurses in a COVID ICU. I pair clinical credibility with training craft, and I already use AI tools to build materials and prototypes faster.",
+ "greenway_bullets": [
+  "Led training and adoption within end-to-end EHR implementations for two strategic clients, from discovery and workflow documentation through configuration, setup and go-live.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new practice-specific workflows.",
+  "Ran discovery with each practice to document pain points and clinical workflows, then designed and configured workflows and widgets to fit them.",
+  "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Training and enablement",
+   "EHR end-user training, instructor-led and virtual sessions, training material development, role-based curricula, SOP writing, adult learners"
+  ],
+  [
+   "Implementation",
+   "clinical workflow documentation, current- and future-state mapping, configuration, go-live support, stakeholder communication"
+  ],
+  [
+   "Clinical and tools",
+   "emergency, ICU and ambulatory workflows; patient safety review; AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n"
+  ]
+ ],
+ "thesis_html": "Training that sticks starts from how clinicians <em>actually</em> work.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "EHR users trained"
+  ],
+  [
+   "500+",
+   "Trained in occupational health"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Training complex EHR rollouts",
+   "200+ end users trained",
+   "Providers, NPs, nurses and MAs, inside two strategic implementations."
+  ],
+  [
+   "Clinical workflow understanding",
+   "Emergency, ICU, ambulatory",
+   "I know the workflows I'm teaching from the clinician's side."
+  ],
+  [
+   "AI tools for training",
+   "Daily user and builder",
+   "Freelance LLM evaluation, React prototypes and AI-assisted content."
+  ]
+ ],
+ "cases": [
+  "training",
+  "impl",
+  "aiehr"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Altera_Training_Lead.pdf"
+}
