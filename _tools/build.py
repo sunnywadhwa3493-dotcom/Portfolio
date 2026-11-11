@@ -34,7 +34,7 @@ ROOVERO_FULL = ("Founder and Product Lead, Roovero", "Dec 2025 – Present", [
     "Integrated and routed multiple AI models (Claude Sonnet, Imagen, Veo, ElevenLabs) and Instagram Graph API publishing, comments and insights.",
     "Use performance data to iterate on model routing, prompts and content strategy; implemented subscription billing and webhooks and led go-to-market.",
 ])
-PAWLENTINE = ("Founder, Pawlentine", "Pre-launch", [
+PAWLENTINE = ("Founder, Pawlentine", "Beta testing (iOS and Android)", [
     "Defined personas, user journeys and prioritisation for a pet social and matching app; building it hands-on with an analytics agent and event tracking.",
 ])
 CLINICAL = [
