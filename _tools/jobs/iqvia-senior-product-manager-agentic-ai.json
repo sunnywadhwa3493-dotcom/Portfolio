@@ -1,0 +1,74 @@
+{
+ "company": "IQVIA",
+ "role": "Senior Product Manager, Agentic AI",
+ "variant": "product",
+ "portfolio_url": "https://sunnywadhwa3493-dotcom.github.io/Portfolio/",
+ "headline": "Healthcare AI Product Builder | Agentic Workflows and Clinical AI Evaluation | MBBS-Trained Physician",
+ "summary": "Healthcare AI product builder and MBBS-trained physician. At Greenway Health I was clinical lead for a new AI-first EHR, mapping clinical workflows and where agentic automation could take work off clinicians, and I wrote PRDs from recurring customer problems with product and engineering. I now run Roovero, an AI SaaS product I took from discovery to paying pilot clients, building with AI agents and writing the PRD, FDD and TDD before they build. I also review and grade clinical AI outputs, so evaluation and human-in-the-loop design are part of how I think about agents.",
+ "greenway_bullets": [
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas and user goals, mapped end-to-end clinical workflows and identified where agentic automation could remove clinician burden.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product and engineering teams to get them built; many shipped to clients.",
+  "Turned clinician needs into UX designs and interactive React prototypes built with AI tools, aligning product, engineering and clients before engineering handoff.",
+  "Voice of the customer to product and design teams on a platform serving 100+ enrolled practices; features I shaped or advocated for shipped with positive client feedback.",
+  "Owned implementations for close to 200 client practices: ran discovery on pain points, configured practice-specific workflows and trained 200+ providers, NPs, nurses and medical assistants.",
+  "Patient Safety Committee, Functional Advisory Committee and Clinical Content Team: triaged defects and patient safety issues through stage-gate release.",
+  "Presented product and AI feature concepts to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Product",
+   "customer discovery, user research, personas, PRDs and user stories, backlog prioritisation, prototyping, stakeholder alignment, product launch and iteration"
+  ],
+  [
+   "Healthcare and AI",
+   "EHR workflows, clinical documentation, patient safety review, agentic workflow scoping, prompt design, evaluation rubrics, RAG-based support"
+  ],
+  [
+   "Build",
+   "React, Flutter, Firebase, Next.js, Claude Code, Codex, GitHub, n8n"
+  ]
+ ],
+ "thesis_html": "Software for care teams works when someone who has <em>delivered</em> care helps decide what gets built.",
+ "facts": [
+  [
+   "Paying pilots",
+   "Roovero, launched and iterating"
+  ],
+  [
+   "4 years",
+   "EHR products at Greenway Health"
+  ],
+  [
+   "100+",
+   "Practices on the platform I advised on"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Agentic AI in practice",
+   "Clinical lead for an AI-first EHR",
+   "Mapped end-to-end clinical workflows and where agents could remove clinician burden, from personas to prototypes."
+  ],
+  [
+   "Evaluation and human-in-the-loop",
+   "I grade clinical AI at Outlier",
+   "Evaluation rubrics and review loops are part of how I scope agent work; clinician judgment stays in the loop."
+  ],
+  [
+   "Zero-to-one ownership",
+   "Roovero, built with AI agents",
+   "Took an AI product from discovery to paying pilots, writing the PRD, FDD and TDD before agents build."
+  ]
+ ],
+ "cases": [
+  "aiehr",
+  "aieval",
+  "roovero",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_IQVIA_AgenticAI.pdf"
+}
