@@ -3,9 +3,9 @@
  "role": "Sr Implementation Consultant",
  "variant": "impl",
  "headline": "EHR Implementation Consultant | Workflow Consultation and Configuration | MBBS-Trained Physician",
- "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, owning end-to-end implementations for two strategic clients as part of a formal implementation team. I run discovery, document current workflows and pain points, then design and configure practice-specific workflows in the EHR. I have trained 200+ end users, from providers to medical assistants, and presented to clients and at Greenway's provider conference. Hospital practice in emergency medicine and ICU means I know how documentation, registration and scheduling actually run on the floor.",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, owning end-to-end implementations for close to 200 client practices as part of a formal implementation team. I run discovery, document current workflows and pain points, then design and configure practice-specific workflows in the EHR. I have trained 200+ end users, from providers to medical assistants, and presented to clients and at Greenway's provider conference. Hospital practice in emergency medicine and ICU means I know how documentation, registration and scheduling actually run on the floor.",
  "greenway_bullets": [
-  "Owned end-to-end EHR implementations for two strategic clients, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
   "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
   "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
   "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
@@ -38,8 +38,8 @@
    "Clinicians and staff trained"
   ],
   [
-   "2",
-   "Strategic implementations owned"
+   "~200",
+   "Client practices implemented"
   ],
   [
    "MBBS",
@@ -55,7 +55,7 @@
   [
    "Configuration",
    "Practice-specific workflows and widgets",
-   "Hands-on configuration and setup support for two strategic clients."
+   "Hands-on configuration and setup support for close to 200 client practices."
   ],
   [
    "Clinical insight",

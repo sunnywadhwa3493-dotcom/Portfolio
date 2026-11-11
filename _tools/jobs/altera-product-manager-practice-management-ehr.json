@@ -3,12 +3,12 @@
  "role": "Product Manager - Practice Management Clinical EHR",
  "variant": "product",
  "headline": "Product Manager | US Ambulatory EHR and Practice Software | MBBS-Trained Physician",
- "summary": "MBBS-trained physician with four years at Greenway Health, a US ambulatory EHR and practice-management software company, working with physician practices and product teams. I owned implementations for two strategic clients, turned their pain points into prioritised feature requests, and saw many of those features ship. Since Aug 2025 I have been clinical lead for a new AI-first EHR: provider personas, end-to-end workflow mapping and React prototypes before engineering handoff. As founder of Roovero, I took a SaaS product from idea to launch and paying pilot clients.",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US ambulatory EHR and practice-management software company, working with physician practices and product teams. I owned implementations for close to 200 client practices, turned their pain points into prioritised feature requests, and saw many of those features ship. Since Aug 2025 I have been clinical lead for a new AI-first EHR: provider personas, end-to-end workflow mapping and React prototypes before engineering handoff. As founder of Roovero, I took a SaaS product from idea to launch and paying pilot clients.",
  "greenway_bullets": [
   "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas and user goals, mapped end-to-end clinical workflows and scoped where agentic automation could reduce clinician burden.",
   "Built interactive React prototypes to align product, engineering and clients on requirements before engineering handoff.",
   "Advised product and design teams on a platform serving 100+ enrolled US physician practices; many features I shaped from client feedback shipped with positive results.",
-  "Owned implementations for two strategic clients: discovery, workflow documentation, configuration of practice-specific workflows and widgets, and training for 200+ providers, NPs, nurses and medical assistants.",
+  "Owned implementations for close to 200 client practices: discovery, workflow documentation, configuration of practice-specific workflows and widgets, and training for 200+ providers, NPs, nurses and medical assistants.",
   "Served on the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team, triaging defects and patient safety issues through stage-gate release.",
   "Presented to clients and at the Greenway Engage provider conference."
  ],

@@ -83,7 +83,7 @@ def resume_html(job):
 CASES = {
 "impl": """<article class="panel"><div class="meta">Greenway Health · 2022 – 2026</div>
 <h3>EHR implementations, from discovery to adoption</h3>
-<p style="font-size:16px">For two strategic client practices I ran discovery on their pain points, configured practice-specific workflows and widgets, supported setup and trained 200+ providers, NPs, nurses and medical assistants. Recurring friction became feature requests, and many of them shipped.</p>
+<p style="font-size:16px">For close to 200 client practices I ran discovery on their pain points, configured practice-specific workflows and widgets, supported setup and trained 200+ providers, NPs, nurses and medical assistants. Recurring friction became feature requests, and many of them shipped.</p>
 <div class="loopsteps"><span>Discovery</span><span>Configure</span><span>Train 200+</span><span>Shipped</span></div></article>""",
 "training": """<article class="panel"><div class="meta">Across my career</div>
 <h3>Training that sticks</h3>
