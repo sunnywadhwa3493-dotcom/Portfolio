@@ -54,7 +54,7 @@ def role_block(title, dates, bullets, keep=True):
 
 
 def resume_html(job):
-    page_url = f"{BASE_URL}/jobs/{job['slug']}/"
+    page_url = job.get("portfolio_url") or f"{BASE_URL}/jobs/{job['slug']}/"
     greenway = ("Clinical Advisor, Greenway Health", "Aug 2022 – Oct 2026 | Remote", job["greenway_bullets"])
     order = {
         "impl": [greenway, OUTLIER, ROOVERO_SHORT],
