@@ -1,0 +1,72 @@
+{
+ "company": "PocketHealth",
+ "role": "Agentic AI Delivery Manager",
+ "variant": "delivery",
+ "headline": "Healthcare Implementation and AI Delivery Lead | EHR Rollouts, Clinical Workflows, Applied AI | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US healthcare software company, where I ran implementations for close to 200 client practices from discovery through go-live and adoption, as the client's main contact. I was the clinical lead on Greenway's AI-first EHR, and I build AI products hands-on: I founded Roovero, an AI content SaaS with paying pilot clients, and I grade and stress-test frontier models on clinical tasks. I translate how clinical teams really work into scope that engineers can build from, and I keep stakeholders aligned through launch.",
+ "greenway_bullets": [
+  "Ran EHR implementations for close to 200 client practices, many at the same time, from discovery and workflow documentation through configuration, go-live and adoption, as the client's main clinical and solutions contact.",
+  "Ran discovery with each practice to document pain points, current workflows, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Turned recurring client pain points into feature requests and worked with product teams to get them built; many shipped to clients.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Delivery",
+   "managing several implementations at once, discovery, workflow and scope documentation, timelines and risk tracking, go-live and adoption, client communication"
+  ],
+  [
+   "AI and technical",
+   "AI-first EHR clinical lead, LLM evaluation and rubrics, AI-assisted build (Claude Code, Codex), webhooks and billing integrations, React prototyping"
+  ],
+  [
+   "Clinical",
+   "clinical workflow design, defect triage, patient safety review, stage-gate release, emergency, ICU and inpatient care"
+  ]
+ ],
+ "thesis_html": "Deployments that reach <em>go-live</em> and keep delivering.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Running several deployments",
+   "5\u20137 years asked; 4 delivered",
+   "Implementations for close to 200 client practices, many in parallel."
+  ],
+  [
+   "Healthcare providers and EHRs",
+   "Direct EHR experience",
+   "Four years at Greenway Health, plus clinical practice as a physician."
+  ],
+  [
+   "AI as part of daily work",
+   "AI-first EHR, Roovero, LLM evaluation",
+   "Clinical lead on an AI-first EHR; built Roovero with Claude Code; grade frontier models on clinical tasks."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "aiehr",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_PocketHealth_AI_Delivery.pdf"
+}

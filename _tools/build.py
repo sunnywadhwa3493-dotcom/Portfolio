@@ -60,9 +60,11 @@ def resume_html(job):
         "impl": [greenway, OUTLIER, ROOVERO_SHORT],
         "product": [ROOVERO_FULL, greenway, OUTLIER, PAWLENTINE],
         "ai": [OUTLIER, greenway, ROOVERO_SHORT],
+        "delivery": [greenway, ROOVERO_SHORT, OUTLIER],
     }[job["variant"]]
     exp_title = {"impl": "Healthcare Software Experience", "product": "Product and AI Experience",
-                 "ai": "AI and Healthcare Software Experience"}[job["variant"]]
+                 "ai": "AI and Healthcare Software Experience",
+                 "delivery": "Healthcare Software and AI Delivery Experience"}[job["variant"]]
     exp = "".join(role_block(t, d, b, keep=(len(b) <= 5)) for t, d, b in order)
     skills = "".join(f"<li><b>{E(k)}:</b> {E(v)}</li>" for k, v in job["skills"])
     clinical = "".join(f"<li>{c}</li>" for c in CLINICAL)
