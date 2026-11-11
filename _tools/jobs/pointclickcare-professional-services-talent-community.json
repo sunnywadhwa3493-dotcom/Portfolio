@@ -1,0 +1,75 @@
+{
+ "company": "PointClickCare",
+ "role": "Professional Services (Implementation, Training and Configuration)",
+ "slug": "pointclickcare-professional-services-talent-community",
+ "variant": "impl",
+ "portfolio_url": "https://sunnywadhwa3493-dotcom.github.io/Portfolio/",
+ "headline": "Healthcare Software Implementation, Training and Configuration Specialist | Customer Enablement | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US healthcare software company, where I consulted with, configured for and trained client practices so they got real value from the EHR. I owned implementations for close to 200 practices, from discovery through configuration and go-live, and trained 200+ end users, from providers to front-line staff. I explain clinical and technical ideas to different audiences, keep customers informed through each stage, and bring a clinician's view of how care is actually delivered.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then configured practice-specific workflows and widgets to match.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, with training matched to each role.",
+  "Acted as the client's main contact through implementation, setting expectations, tracking open items and clearing blockers with internal teams.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Implementation and configuration",
+   "discovery, requirements gathering, current- and future-state workflow mapping, system configuration, go-live support, customer onboarding"
+  ],
+  [
+   "Training and enablement",
+   "role-based end-user training, clinical staff training, SOP writing, user adoption, customer communication"
+  ],
+  [
+   "Quality and clinical",
+   "defect triage, patient safety review, stage-gate release, clinical documentation workflows, emergency, ICU and inpatient care"
+  ]
+ ],
+ "thesis_html": "Help customers get real <em>value</em> from the software: consult, configure, train.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Consult, enable and train",
+   "The core of their implementation team",
+   "Onboarding, configuration and training for close to 200 client practices."
+  ],
+  [
+   "Healthcare SaaS",
+   "4 years at Greenway Health",
+   "Hands-on with a cloud EHR and the clinical staff who use it daily."
+  ],
+  [
+   "Clinical credibility",
+   "MBBS, ICU and emergency background",
+   "I understand care workflows, so training and configuration fit the work."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_PointClickCare_ProfServices.pdf"
+}
