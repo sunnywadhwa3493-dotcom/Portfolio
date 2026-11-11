@@ -26,6 +26,7 @@ OUTLIER = ("AI Evaluation (Freelance), Outlier", "Dec 2025 – Present", [
 ROOVERO_SHORT = ("Founder and Product Lead, Roovero", "Dec 2025 – Present", [
     "Took an AI content SaaS for small businesses from discovery to launch; now serving paying pilot clients and iterating on their feedback.",
     "Own requirements, AI architecture and the hands-on build (Flutter, Firebase, Next.js) using Claude Code and Codex, including billing and webhook integrations.",
+    "Work agentically: write the PRD, functional design and technical design documents first, then have AI agents build from them. The support system runs on a RAG pipeline.",
 ])
 ROOVERO_FULL = ("Founder and Product Lead, Roovero", "Dec 2025 – Present", [
     "Took an AI content platform for startups and small businesses from problem discovery through launch; now serving paying pilot clients and iterating on their feedback.",
@@ -33,9 +34,10 @@ ROOVERO_FULL = ("Founder and Product Lead, Roovero", "Dec 2025 – Present", [
     "Built website and PDF ingestion that generates brand profiles, plus 30-day content calendars with a user-approval step in the workflow.",
     "Integrated and routed multiple AI models (Claude Sonnet, Imagen, Veo, ElevenLabs) and Instagram Graph API publishing, comments and insights.",
     "Use performance data to iterate on model routing, prompts and content strategy; implemented subscription billing and webhooks and led go-to-market.",
+    "Work agentically: write the PRD, functional design and technical design documents first, then have AI agents build from them. The support system runs on a RAG pipeline.",
 ])
 PAWLENTINE = ("Founder, Pawlentine", "Beta testing (iOS and Android)", [
-    "Defined personas, user journeys and prioritisation for a pet social and matching app; building it hands-on with an analytics agent and event tracking.",
+    "Defined personas, user journeys and prioritisation for a pet social and matching app; building it hands-on with an analytics agent and event tracking. The support system runs on a RAG pipeline.",
 ])
 CLINICAL = [
     "<b>Senior Resident, Emergency Medicine, Aster CMI</b>, Bengaluru (Apr 2021 – Jul 2022): quaternary care, Level 1 trauma centre.",
