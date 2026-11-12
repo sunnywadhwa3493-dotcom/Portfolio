@@ -8,14 +8,14 @@
   "Ran EHR implementations for close to 200 client practices: discovery, current-state and future-state workflow documentation, practice-specific configuration, testing and go-live support.",
   "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, and built training content from the validated workflows.",
   "Turned recurring client pain points into requirements and feature requests with product and engineering teams; many shipped to clients with positive feedback.",
-  "Triaged defects and patient safety issues through stage-gate release as a member of the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees; tested and validated system integrations as part of release.",
   "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping across the visit, and React prototypes before engineering handoff.",
   "Presented and demonstrated workflows to clients and at the Greenway Engage provider conference (50 attendees)."
  ],
  "skills": [
   [
    "HIS / EHR implementation",
-   "workflow assessment and redesign, requirements and use cases, configuration, test scripts and testing, go-live readiness and stabilization"
+   "workflow assessment and redesign, requirements and use cases, configuration, test scripts and testing, go-live readiness and stabilization, user acceptance testing, system integration testing, MS Project, SharePoint"
   ],
   [
    "Change and adoption",
