@@ -164,6 +164,8 @@ def portfolio_html(job):
 
 def build(slug):
     job = json.load(open(os.path.join(TOOLS, "jobs", f"{slug}.json")))
+    global EMAIL
+    EMAIL = job.get("email", "sampreethwadhwa@gmail.com")
     job["slug"] = slug
     out = os.path.join(ROOT, "jobs", slug)
     os.makedirs(out, exist_ok=True)
