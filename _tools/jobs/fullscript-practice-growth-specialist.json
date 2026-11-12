@@ -1,0 +1,71 @@
+{
+ "company": "Fullscript",
+ "role": "Practice Growth Specialist, SMB Customer Success",
+ "variant": "delivery",
+ "headline": "Customer Success and Onboarding Specialist | Health Technology | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, where I implemented and trained clinicians on healthcare software across close to 200 practices. I run onboarding calls and training sessions, learn clinicians' workflows and help them adopt new tools, and I feed what I hear back to product teams. I also run Roovero, my own SaaS, with paying pilot clients.",
+ "greenway_bullets": [
+  "Owned end-to-end implementations for close to 200 client practices, from discovery and workflow documentation through go-live and follow-up.",
+  "Ran onboarding calls, demos and hands-on training for providers, nurse practitioners, nurses and medical assistants (200+ trained), and followed up as practices settled in.",
+  "Worked with product teams on client issues and growth opportunities; grouped recurring pain points into PRDs and feature requests, and many shipped.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined personas and workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Customer success",
+   "onboarding, launches, adoption, client check-ins, issue escalation, feedback into product"
+  ],
+  [
+   "Client engagement",
+   "demos, training, stakeholder communication, workflow advice"
+  ],
+  [
+   "Tools and clinical",
+   "AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n; emergency, ICU and ambulatory workflows"
+  ]
+ ],
+ "thesis_html": "Practices keep using a tool when onboarding fits their <em>day</em>. I have run that for four years.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Users trained"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Practitioner onboarding",
+   "~200 practices",
+   "Implementation, training and follow-up with clinicians."
+  ],
+  [
+   "Clinical workflows",
+   "MBBS, ICU and ED",
+   "I understand how practitioners work day to day."
+  ],
+  [
+   "Feedback to product",
+   "PRDs that shipped",
+   "Client feedback turned into built features."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Fullscript.pdf"
+}
