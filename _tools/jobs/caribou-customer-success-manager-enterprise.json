@@ -1,0 +1,71 @@
+{
+ "company": "Caribou",
+ "role": "Customer Success Manager, Enterprise",
+ "variant": "delivery",
+ "headline": "Customer Success and Implementation Lead | Healthcare SaaS | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, where I owned client implementations across close to 200 practices and advised them on workflows and adoption after go-live. I lead launches, coordinate with product teams on client issues, and turn recurring feedback into requirements. I also run Roovero, my own SaaS, with paying pilot clients.",
+ "greenway_bullets": [
+  "Owned end-to-end implementations for close to 200 client practices, from discovery and workflow documentation through go-live and follow-up.",
+  "Advised practices on workflows and best practices and trained 200+ providers, nurse practitioners, nurses and medical assistants.",
+  "Worked with product teams on client issues and growth opportunities; grouped recurring pain points into PRDs and feature requests, and many shipped.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined personas and workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Customer success",
+   "onboarding, launches, adoption, client check-ins, issue escalation, feedback into product"
+  ],
+  [
+   "Client engagement",
+   "demos, training, stakeholder communication, workflow advice"
+  ],
+  [
+   "Tools and clinical",
+   "AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n; emergency, ICU and ambulatory workflows"
+  ]
+ ],
+ "thesis_html": "Customers stay when the product fits their <em>day</em>. I have spent four years making that fit.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Users trained"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Launches and onboarding",
+   "~200 practices",
+   "Implementation through go-live."
+  ],
+  [
+   "Advising customers",
+   "Workflow best practices",
+   "Practice-level advice after launch."
+  ],
+  [
+   "Feedback to product",
+   "PRDs that shipped",
+   "Client issues turned into built features."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Caribou_CSM.pdf"
+}

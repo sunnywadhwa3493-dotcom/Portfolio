@@ -1,0 +1,71 @@
+{
+ "company": "ACTO",
+ "role": "Onboarding Consultant, Customer Success",
+ "variant": "delivery",
+ "headline": "Onboarding and Implementation Consultant | Life Sciences SaaS | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health running client implementations across close to 200 practices. I own the project plan, coordinate clients with product and engineering, manage risks, and train users on launch. I also use AI tools daily and build simple AI workflows with n8n and Claude for my own product, Roovero.",
+ "greenway_bullets": [
+  "Owned end-to-end implementations for close to 200 client practices, from discovery through configuration and go-live, keeping plans and dates on track.",
+  "Coordinated clients, clinicians and internal product teams through each rollout and handed clients over to ongoing support.",
+  "Trained 200+ end users on new workflows and features through demos and hands-on sessions.",
+  "Collected client feedback, grouped recurring issues into PRDs and feature requests, and worked with product teams to get them built; many shipped.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Onboarding and delivery",
+   "project planning, governance and status meetings, risk and change tracking, client onboarding, launch coaching"
+  ],
+  [
+   "Client engagement",
+   "demos, training, stakeholder communication, feedback sessions"
+  ],
+  [
+   "AI and tools",
+   "Claude, ChatGPT, Gemini, n8n workflows, React, GitHub"
+  ]
+ ],
+ "thesis_html": "A customer launch works when people <em>actually</em> adopt it. I run it end to end.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Users trained"
+  ],
+  [
+   "n8n",
+   "AI workflows built"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Run implementations end to end",
+   "~200 practices",
+   "Plan, coordinate, launch and hand over."
+  ],
+  [
+   "Cross-functional coordination",
+   "Product and engineering",
+   "PRDs that shipped from client feedback."
+  ],
+  [
+   "AI workflows",
+   "Roovero, n8n",
+   "I build and use AI agents and workflows."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "aiehr",
+  "training"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_ACTO_Onboarding.pdf"
+}

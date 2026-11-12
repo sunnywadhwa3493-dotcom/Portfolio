@@ -1,0 +1,70 @@
+{
+ "company": "Clario",
+ "role": "Associate Product Manager, Technical Product Development",
+ "variant": "product",
+ "headline": "Associate Product Manager | Clinical and Regulated Health Technology | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years in health software at Greenway Health. I write PRDs from recurring client pain points, work with product, engineering and clinical teams through release, and train users on what ships. I also founded Roovero, an AI SaaS product I take from requirements through build and iteration with paying pilot clients. I'm early in formal product titles and strong on clinical judgment, requirements and cross-functional follow-through.",
+ "greenway_bullets": [
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas and user goals, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Wrote PRDs and feature requests from recurring client friction, and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues through stage-gate release as a member of the Patient Safety and Functional Advisory Committees and the Clinical Content Team.",
+  "Owned implementations for close to 200 client practices and trained 200+ providers, nurse practitioners, nurses and medical assistants on new workflows.",
+  "Presented product concepts to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Product",
+   "requirements, user stories, prioritisation, prototyping, release coordination, launch readiness, stakeholder alignment"
+  ],
+  [
+   "Clinical and regulated",
+   "patient safety triage, stage-gate release, clinical content, clinical workflows"
+  ],
+  [
+   "Build",
+   "React, GitHub, n8n, AI tools (Claude, ChatGPT, Gemini)"
+  ]
+ ],
+ "thesis_html": "Good requirements come from <em>knowing</em> the clinical work. I do.",
+ "facts": [
+  [
+   "4 years",
+   "EHR products at Greenway Health"
+  ],
+  [
+   "PRDs",
+   "Written and shipped"
+  ],
+  [
+   "Roovero",
+   "Own product, paying pilots"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Requirements and user stories",
+   "PRDs that shipped",
+   "Client pain points turned into built features."
+  ],
+  [
+   "Regulated health tech",
+   "Patient safety committees",
+   "Stage-gate release and defect triage."
+  ],
+  [
+   "Cross-functional launches",
+   "~200 practices",
+   "Rollouts and training with clients and product teams."
+  ]
+ ],
+ "cases": [
+  "aiehr",
+  "impl",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Clario_APM.pdf"
+}
