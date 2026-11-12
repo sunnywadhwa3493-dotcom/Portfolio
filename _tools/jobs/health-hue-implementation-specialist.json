@@ -1,0 +1,71 @@
+{
+ "company": "Health Hue Digital",
+ "role": "Implementation Specialist",
+ "variant": "impl",
+ "headline": "Implementation Specialist | Clinic Onboarding, Configuration and Training | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, where I took close to 200 client practices from discovery to go-live: workflow documentation, configuration, testing and training for providers, nurses and front-line staff. I keep launches organised, explain software patiently to non-technical teams and handle patient information carefully. I also run Roovero, my own SaaS, with paying pilot clients.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices: discovery on workflow pain points, practice-specific configuration, testing and go-live support.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new workflows and features.",
+  "Collected feedback from clients, grouped recurring pain points into PRDs and feature requests, and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Implementation",
+   "discovery, workflow documentation, configuration, validation and testing, go-live support, adoption"
+  ],
+  [
+   "Training",
+   "end-user training for providers, nurses and medical assistants, documentation, client check-ins"
+  ],
+  [
+   "Tools and clinical",
+   "AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n; emergency, ICU and ambulatory clinical workflows"
+  ]
+ ],
+ "thesis_html": "Clinics adopt software when onboarding fits how they <em>actually</em> work. I have done that about 200 times.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Clinic onboarding",
+   "~200 practices",
+   "Kickoff through go-live, with clinicians and staff as the users."
+  ],
+  [
+   "Training non-technical teams",
+   "200+ trained",
+   "Providers, nurses and front-desk teams, on calls and in person."
+  ],
+  [
+   "Careful with patient data",
+   "Clinical background",
+   "MBBS, patient safety committees and clinical workflow knowledge."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Health_Hue.pdf"
+}
