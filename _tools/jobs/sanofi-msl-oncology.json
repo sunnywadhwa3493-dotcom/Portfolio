@@ -1,0 +1,70 @@
+{
+ "company": "Sanofi",
+ "role": "Medical Science Liaison, Oncology",
+ "variant": "impl",
+ "headline": "MBBS-Trained Physician | Clinical Evidence, Scientific Exchange and Medical Education",
+ "summary": "MBBS-trained physician with emergency, ICU and occupational health experience and four years in health technology. I reviewed clinical literature for evidence-based EHR content, presented to clinicians at Greenway's provider conference and to client leadership, and trained 200+ providers and nurses. I have not held an MSL or medical affairs title and have no oncology-specific practice; I am looking to move my clinical and scientific communication skills into medical affairs.",
+ "greenway_bullets": [
+  "Reviewed clinical literature on the Clinical Content Team to keep EHR clinical content evidence-based and aligned with guidelines.",
+  "Presented clinical and product concepts to provider audiences at the Greenway Engage conference and directly to client clinical leadership.",
+  "Designed and delivered training for 200+ clinicians and staff, including providers, nurse practitioners, nurses and medical assistants.",
+  "Patient Safety Committee member: triaged patient safety issues and defects from detection through stage-gate release.",
+  "Main clinical contact for close to 200 client practices, translating clinician needs into product decisions."
+ ],
+ "skills": [
+  [
+   "Scientific communication",
+   "literature review, evidence synthesis, presentations to clinicians, clinician education"
+  ],
+  [
+   "Clinical",
+   "emergency medicine, critical care, occupational health, clinical AI evaluation"
+  ],
+  [
+   "Stakeholders",
+   "relationships with clinicians and leadership, patient safety review"
+  ]
+ ],
+ "thesis_html": "Turning clinical <em>evidence</em> into something clinicians can use.",
+ "facts": [
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ],
+  [
+   "2.5 years",
+   "Emergency, ICU and occupational health"
+  ],
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Evidence",
+   "Literature review",
+   "Evidence-based clinical content for an EHR."
+  ],
+  [
+   "Education",
+   "200+ clinicians trained",
+   "Providers, NPs, nurses and medical assistants."
+  ],
+  [
+   "Clinical",
+   "MBBS; ED and ICU",
+   "Hands-on physician experience."
+  ]
+ ],
+ "cases": [
+  "safety",
+  "training",
+  "aieval"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Sanofi_MSL.pdf"
+}

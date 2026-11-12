@@ -1,0 +1,72 @@
+{
+ "company": "Rexdale Community Health Centre",
+ "role": "Manager, EMR",
+ "variant": "impl",
+ "headline": "EMR Implementation and Optimization | Physician-Trained | Training, Workflow Support and Data Quality",
+ "summary": "MBBS-trained physician with four years in EMR implementation at Greenway Health. I took close to 200 client practices from discovery through setup to active use, trained 200+ providers, nurse practitioners, nurses and medical assistants, and acted as their main clinical contact after go-live. I have also worked as a physician in emergency, ICU and occupational health settings, so I know what front-line teams need from their EMR.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "EMR",
+   "implementation, workflow optimization, user support, training, defect triage"
+  ],
+  [
+   "Primary care teams",
+   "providers, nurse practitioners, nurses, medical assistants"
+  ],
+  [
+   "Clinical",
+   "emergency, ICU and occupational health"
+  ]
+ ],
+ "thesis_html": "An EMR works when <em>every role on the care team</em> can use it on a busy day.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Implementation",
+   "~200 practices",
+   "Discovery, configuration and adoption."
+  ],
+  [
+   "Training",
+   "200+ users",
+   "Providers, NPs, nurses and medical assistants."
+  ],
+  [
+   "Support",
+   "Main clinical contact",
+   "Client practices after go-live."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Rexdale.pdf"
+}

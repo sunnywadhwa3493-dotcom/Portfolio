@@ -1,0 +1,72 @@
+{
+ "company": "Michael Garron Hospital (TEHN)",
+ "role": "Clinical Informatics Specialist",
+ "variant": "impl",
+ "headline": "Clinical Informatics and EHR Implementation | Physician with Emergency and ICU Experience",
+ "summary": "MBBS-trained physician with emergency, ICU and occupational health experience and four years in EHR implementation at Greenway Health. I analyzed clinical workflows for close to 200 practices, configured the system to fit them, trained 200+ users and triaged defects and patient safety issues through stage-gate release. I have not worked on a hospital system such as Cerner or Meditech; my experience is in ambulatory EHR implementation, and my clinical background is hospital-based.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Clinical informatics",
+   "workflow analysis, requirements, configuration, defect triage, training"
+  ],
+  [
+   "Clinical",
+   "emergency, ICU and inpatient care, patient safety review"
+  ],
+  [
+   "Delivery",
+   "stakeholder engagement, documentation, go-live support"
+  ]
+ ],
+ "thesis_html": "I look at a build the way <em>the clinician on shift</em> will meet it.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Workflow analysis",
+   "~200 practices",
+   "Workflows documented and configured to fit."
+  ],
+  [
+   "Safety",
+   "Patient Safety Committee",
+   "Safety issues triaged through release."
+  ],
+  [
+   "Clinical background",
+   "ED, ICU, occupational health",
+   "Hospital-based practice as a physician."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "safety",
+  "training"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Garron.pdf"
+}

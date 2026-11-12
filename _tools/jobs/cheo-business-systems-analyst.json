@@ -1,0 +1,72 @@
+{
+ "company": "CHEO",
+ "role": "Business Systems Analyst",
+ "variant": "impl",
+ "headline": "Clinical Systems Analysis and EHR Implementation | Physician-Trained | Requirements, Configuration and Training",
+ "summary": "MBBS-trained physician with four years at Greenway Health, an EHR company. I ran discovery with close to 200 client practices, documented their workflows and requirements, configured the system to match and trained 200+ users. I wrote PRDs from client feedback and triaged defects and patient safety issues through release as a member of two advisory committees. Before that I worked in emergency medicine and the ICU, so I can talk with clinicians in their own language.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Systems analysis",
+   "requirements gathering, workflow documentation, PRDs, configuration, defect triage"
+  ],
+  [
+   "Training and adoption",
+   "end-user training, go-live support, clinician engagement"
+  ],
+  [
+   "Clinical",
+   "emergency, ICU and inpatient care"
+  ]
+ ],
+ "thesis_html": "Good requirements start with <em>watching how clinicians actually work</em>.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Requirements",
+   "Discovery with ~200 practices",
+   "Workflow and pain-point documentation turned into configuration and PRDs."
+  ],
+  [
+   "Quality",
+   "Stage-gate release",
+   "Defects and safety issues triaged before release."
+  ],
+  [
+   "Training",
+   "200+ users trained",
+   "Providers, nurses and medical assistants."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "safety",
+  "training"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_CHEO.pdf"
+}

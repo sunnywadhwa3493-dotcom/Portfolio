@@ -1,0 +1,72 @@
+{
+ "company": "Maple",
+ "role": "Client Success Coordinator",
+ "variant": "impl",
+ "headline": "Client Success and Onboarding | Health-Tech | Physician-Trained",
+ "summary": "Four years in client-facing work at Greenway Health: I onboarded close to 200 client practices, trained 200+ users and stayed their main contact after go-live, passing recurring issues to product teams as feature requests. I am an MBBS-trained physician with emergency and ICU experience, and I build with AI tools as founder of Roovero.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Client success",
+   "onboarding, training, adoption, client relationships, issue escalation"
+  ],
+  [
+   "Clinical",
+   "emergency, ICU and inpatient care"
+  ],
+  [
+   "AI",
+   "AI product build, clinical AI evaluation"
+  ]
+ ],
+ "thesis_html": "Clients stay when <em>onboarding feels easy</em> and problems get fixed.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Onboarding",
+   "~200 practices",
+   "Setup through to active use."
+  ],
+  [
+   "Support",
+   "Main client contact",
+   "Issues escalated and tracked with product teams."
+  ],
+  [
+   "Training",
+   "200+ users",
+   "Role-based training."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "roovero"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Maple_CSC.pdf"
+}
