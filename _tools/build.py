@@ -41,8 +41,8 @@ PAWLENTINE = ("Founder, Pawlentine", "Beta testing (iOS and Android)", [
 ])
 CLINICAL = [
     "<b>Senior Resident, Emergency Medicine, Aster CMI</b>, Bengaluru (Apr 2021 – Jul 2022): quaternary care, Level 1 trauma centre.",
-    "<b>ICU Registrar, HBS Hospital</b>, Bengaluru (May 2020 – Jan 2021): COVID ICU; trained 12+ nurses.",
-    "<b>Occupational Health Physician, Ranger OH Clinic</b> (Jan – Apr 2021): wrote SOPs; trained 500+ people in emergency and safety protocols.",
+    "<b>ICU Registrar, HBS Hospital</b>, Bengaluru (May 2020 – Jan 2021): worked under a senior doctor in the ICU, treating COVID-19 and other ICU patients; bedside echo, USG, intubation and central lines; trained 12+ nurses.",
+    "<b>Occupational Health Physician, Ranger OH Clinic</b> (Jan – Apr 2021): factory occupational health centre, seeing 150 to 200 patients a day; wrote SOPs; trained 500+ people in emergency and safety protocols.",
     "<b>Teleconsultation Doctor, TATA 1MG</b> and freelance physician, India (Nov 2020 – present): virtual and in-person consultations, chronic disease management.",
 ]
 EDUCATION = ("MBBS, Kempegowda Institute of Medical Sciences (KIMS)", "2020 | Bengaluru, India")

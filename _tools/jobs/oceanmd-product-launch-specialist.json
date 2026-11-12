@@ -1,0 +1,35 @@
+{
+ "company": "OceanMD",
+ "role": "Product Launch Specialist, HealthTech SaaS",
+ "variant": "delivery",
+ "headline": "Product Launch and Client Implementation Specialist | HealthTech SaaS | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, running client implementations and feature rollouts across close to 200 practices. I plan and coordinate work between clients, product and delivery teams, turn client feedback into requirements that get built, and train clinicians on what ships. I also took my own AI content SaaS from discovery to launch and now run it with paying pilot clients, so I know both sides of a launch.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and go-live.",
+  "Coordinated clients, clinicians and internal product teams through each rollout, keeping plans, hand-offs and go-live dates on track.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new workflows and features.",
+  "Collected feedback from clients, grouped recurring pain points into PRDs and feature requests, and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  ["Launch and delivery", "project planning, cross-functional coordination, client onboarding, early adopter feedback, go-live support, PRDs"],
+  ["Client engagement", "demos, training, check-ins, feedback sessions with healthcare providers, stakeholder communication"],
+  ["Tools and clinical", "AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n; emergency, ICU and ambulatory clinical workflows"]
+ ],
+ "thesis_html": "A launch works when clinicians <em>actually</em> adopt it. I have run that from both sides.",
+ "facts": [
+  ["4 years", "Health tech at Greenway Health"],
+  ["~200", "Client practices implemented"],
+  ["200+", "Clinicians and staff trained"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Client rollouts and launches", "~200 practices", "End-to-end implementations, from discovery to go-live, with clinicians as the users."],
+  ["Feedback into the roadmap", "PRDs that shipped", "Recurring client pain points became feature requests, and many were built."],
+  ["Builds and launches own product", "Roovero, paying pilots", "Took an AI SaaS from discovery to launch and iterate on pilot client feedback."]
+ ],
+ "cases": ["impl", "aiehr", "training"],
+ "resume_file": "Sampreeth_Wadhwa_Resume_OceanMD_Launch.pdf"
+}

@@ -1,0 +1,33 @@
+{
+ "company": "Cardinal Health",
+ "role": "Clinical Product Specialist, Surgical",
+ "variant": "impl",
+ "headline": "Clinical Educator and Product Specialist | Physician-Trained | Healthcare Technology Adoption",
+ "summary": "MBBS-trained physician with hands-on ICU and emergency experience, including bedside ultrasound and echo, intubation and central line placement, followed by four years at Greenway Health training 200+ clinicians on new workflows. I have trained nurses, providers and 500+ people in safety protocols, and I turn clinical feedback into product requirements. I want to bring that clinical credibility to a surgical product portfolio, supporting customers before and after the sale.",
+ "greenway_bullets": [
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new workflows and features.",
+  "Ran discovery with close to 200 client practices to document clinical pain points and workflows, then configured solutions to fit them.",
+  "Acted as the clinical voice to product teams: wrote PRDs and feature requests from recurring client pain points; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  ["Clinical and education", "physician-trained clinician, product and end-user training, SOP writing, clinical protocols, patient safety review"],
+  ["Procedures", "bedside echo and ultrasound, intubation, central line placement (ICU and emergency)"],
+  ["Customer-facing", "pre- and post-sale education, clinical support for customers, client presentations, stakeholder communication"]
+ ],
+ "thesis_html": "Clinicians trust a product specialist who has <em>worked</em> at the bedside.",
+ "facts": [
+  ["MBBS", "Physician-trained, 2020"],
+  ["200+", "Clinicians trained at Greenway"],
+  ["500+", "Trained in safety protocols"],
+  ["4 years", "Health tech at Greenway Health"]
+ ],
+ "why_fit": [
+  ["Clinical credibility", "ICU and emergency physician", "Echo, USG, intubation and central lines, plus COVID ICU care."],
+  ["Clinical training and education", "200+ users, 500+ in safety", "Trained providers, nurses and staff on new tools and protocols."],
+  ["Voice of the customer", "PRDs that shipped", "Turned recurring client needs into requirements for product teams."]
+ ],
+ "cases": ["training", "impl", "safety"],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Cardinal_Surgical.pdf"
+}
