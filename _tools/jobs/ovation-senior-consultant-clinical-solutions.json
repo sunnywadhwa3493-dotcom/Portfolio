@@ -1,0 +1,72 @@
+{
+ "company": "Ovation Healthcare",
+ "role": "Senior Consultant, Clinical Solutions",
+ "variant": "impl",
+ "headline": "Healthcare Clinical Solutions Consultant | EHR Advisory and Workflow Redesign | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, advising close to 200 client practices on EHR workflows, adoption and clinical documentation. I run discovery sessions, document current processes and pain points, and recommend and configure improvements, then train staff and report back to practice leaders. Hospital practice in emergency medicine and ICU gives me a clinician's view of how care and documentation run day to day. I have presented to clients and at Greenway's provider conference, and I sat on the Patient Safety and Functional Advisory Committees.",
+ "greenway_bullets": [
+  "Owned end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and adoption.",
+  "Ran discovery with each practice to document pain points, business processes and goals, then designed and configured practice-specific workflows and widgets.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on the new workflows.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  [
+   "Implementation",
+   "business discovery, requirements gathering, current- and future-state workflow mapping, system configuration, go-live and setup support, implementation project team"
+  ],
+  [
+   "Training and adoption",
+   "role-based end-user training, clinical staff training, SOP writing, user adoption, stakeholder communication"
+  ],
+  [
+   "Quality and clinical",
+   "defect triage, patient safety review, stage-gate release, clinical documentation workflows, emergency, ICU and inpatient care"
+  ]
+ ],
+ "thesis_html": "Advice on clinical workflows and EHRs from someone who has worked the <em>floor</em>.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Discovery and advisory",
+   "Pain points to recommendations",
+   "Ran discovery with close to 200 practices, documented processes and goals, and recommended workflow changes."
+  ],
+  [
+   "Presenting to clients",
+   "Conference and client sessions",
+   "Presented to clients and at the Greenway Engage provider conference."
+  ],
+  [
+   "Clinical and safety lens",
+   "Emergency, ICU and patient safety",
+   "Physician background plus time on Patient Safety and Functional Advisory Committees."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "training",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Ovation_Clinical_Solutions.pdf"
+}
