@@ -1,0 +1,35 @@
+{
+ "company": "exacare ai",
+ "role": "Senior Solutions Consultant",
+ "variant": "impl",
+ "headline": "Healthcare Software Implementation and Training | Workflow Configuration | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR software company, owning end-to-end implementations for close to 200 client practices. I run discovery with each customer, map how they work today into a clean configuration, set them up, and train the people who use it (200+ trained, from providers to medical assistants). I write the training material and SOPs, bring customer feedback back to product, and I'm comfortable with PHI and privacy requirements. Before software I worked in emergency medicine and the ICU, so I know the clinical side of the workflows I configure.",
+ "greenway_bullets": [
+  "Owned end-to-end implementations for close to 200 client practices, from discovery and workflow documentation through configuration, go-live support and adoption.",
+  "Ran discovery with each practice to document pain points and goals, then configured practice-specific workflows and settings.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants; wrote role-based training material and SOPs.",
+  "Brought recurring customer problems to product as PRDs and feature requests; many shipped to clients.",
+  "Took part in UAT and SIT, and triaged defects from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined user personas, mapped end-to-end workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  ["Implementation", "customer discovery, workflow mapping, platform configuration, data setup, go-live support, project hygiene across CRM and project tools"],
+  ["Training and documentation", "role-based curricula, live training, SOPs, runbooks, help articles, stakeholder communication"],
+  ["Technical and healthcare", "API and webhook integrations, defect triage, PHI and privacy awareness, clinical workflows in emergency, ICU and ambulatory care"]
+ ],
+ "thesis_html": "Customers go live smoothly when onboarding is built by someone who has <em>worked</em> the floor.",
+ "facts": [
+  ["4 years", "Health tech at Greenway Health"],
+  ["200+", "Clinicians and staff trained"],
+  ["~200", "Client practices implemented"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Onboarding and training", "Role-based, hands-on", "Trained 200+ users and wrote the guides and SOPs behind it."],
+  ["Configuration", "Workflows into settings", "Configured close to 200 practice implementations."],
+  ["Voice of the customer", "Feedback to product", "Turned recurring client pain points into PRDs; many shipped."]
+ ],
+ "cases": ["impl", "training", "safety"],
+ "resume_file": "Sampreeth_Wadhwa_Resume_exacare_Senior_Solutions_Consultant.pdf"
+}
