@@ -1,0 +1,35 @@
+{
+ "company": "Kaliba",
+ "role": "Senior Implementation Consultant",
+ "variant": "impl",
+ "headline": "SaaS Implementation Consultant | Discovery, Workflow Design and Configuration | Customer Training",
+ "summary": "Four years at Greenway Health, a US EHR software company, owning end-to-end implementations for close to 200 client practices, from discovery workshops through configuration, go-live and adoption. I document how each customer works today, design the workflow they need, configure it, and train the people who use it (200+ trained). I also work on the product side: I write requirements documents from recurring customer problems and have built and launched my own SaaS product with paying pilot clients, including billing and API integrations.",
+ "greenway_bullets": [
+  "Owned end-to-end implementations for close to 200 client practices, from discovery and workflow documentation through configuration, go-live support and adoption.",
+  "Ran discovery with each customer to document pain points, processes and goals, then designed and configured customer-specific workflows.",
+  "Trained 200+ end users, from providers to nurses and medical assistants, on the new workflows.",
+  "Wrote PRDs and feature requests from recurring customer problems and worked with product teams to get them built; many shipped to clients.",
+  "Took part in UAT and SIT, and triaged defects from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined user personas, mapped end-to-end workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  ["Implementation", "customer discovery, requirements gathering, current- and future-state workflow mapping, configuration, go-live support, UAT and SIT, MS Project, SharePoint"],
+  ["Customer enablement", "role-based training, documentation and SOP writing, stakeholder communication, customer workshops and presentations"],
+  ["Product and integrations", "PRDs, defect triage, API and webhook integrations, subscription billing, prototyping"]
+ ],
+ "thesis_html": "Customers get live faster when the person configuring it has <em>listened</em> first.",
+ "facts": [
+  ["4 years", "SaaS implementation at Greenway Health"],
+  ["200+", "End users trained"],
+  ["~200", "Client practices implemented"],
+  ["SaaS", "Built and launched my own product"]
+ ],
+ "why_fit": [
+  ["Discovery and workshops", "Requirements to design", "Documented each customer's workflows and pain points, then designed and configured to fit."],
+  ["Configuration and integrations", "Hands-on delivery", "Configured close to 200 implementations; built billing and API integrations in my own product."],
+  ["Customer advisor", "Training and adoption", "Trained 200+ users and presented to clients and at a provider conference."]
+ ],
+ "cases": ["impl", "training", "safety"],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Kaliba.pdf"
+}
