@@ -1,0 +1,71 @@
+{
+ "company": "Unity Health Toronto",
+ "role": "EPR Applications Specialist",
+ "variant": "impl",
+ "headline": "EPR Applications Specialist | Clinical Application Build, Workflow Redesign and Testing | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, where I took close to 200 client practices through discovery, workflow documentation, configuration, testing and go-live. I sat on the Patient Safety and Functional Advisory Committees, triaging defects and safety issues through release, and I turned clinician pain points into change requests that product teams shipped. Before that I worked in a Level 1 trauma ED and a COVID ICU, so ordering, results and documentation workflows are familiar to me from the bedside. My build work so far has been ambulatory and vendor-side, not a hospital EPR.",
+ "greenway_bullets": [
+  "Ran EHR implementations for close to 200 client practices: discovery, documenting current and future-state clinical workflows, configuring practice-specific workflows and widgets, testing and go-live support.",
+  "Assessed requests for workflow and content changes, weighed the impact on clinicians and other modules, and worked with product and engineering teams on the fix; many changes I shaped shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, and supported them through stabilization.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping across the visit, and React prototypes before engineering handoff.",
+  "Reviewed clinical literature for EHR content and presented workflows to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "EPR build and support",
+   "clinical workflow documentation and redesign, configuration, test scripts and testing, change and enhancement requests, impact assessment, defect triage, go-live and stabilization support"
+  ],
+  [
+   "Safety and change",
+   "patient safety review, stage-gate release, end-user training, clinician engagement, issue logs and status updates"
+  ],
+  [
+   "Clinical and tools",
+   "emergency, ICU and ambulatory workflows (ordering, results, documentation); Microsoft Office; AI tools (Claude, ChatGPT, Gemini), React, GitHub"
+  ]
+ ],
+ "thesis_html": "An EPR build is safe when it matches how clinicians <em>actually</em> order, chart and read results.",
+ "facts": [
+  [
+   "4 years",
+   "EHR implementation at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Build and workflow redesign",
+   "~200 implementations",
+   "Workflow documentation, configuration and testing for each practice."
+  ],
+  [
+   "Safety and change requests",
+   "Patient Safety Committee",
+   "Triaged defects and safety issues through stage-gate release."
+  ],
+  [
+   "Hospital clinical workflows",
+   "ED and ICU experience",
+   "Senior resident in a Level 1 trauma ED and registrar in a COVID ICU."
+  ]
+ ],
+ "cases": [
+  "impl",
+  "safety",
+  "training"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_UnityHealth.pdf"
+}
