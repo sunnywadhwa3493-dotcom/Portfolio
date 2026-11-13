@@ -1,0 +1,73 @@
+{
+ "company": "Sunnybrook Health Sciences Centre",
+ "role": "HIS Training Manager, Project REACH",
+ "variant": "impl",
+ "headline": "HIS and EHR Training Lead | Clinical Workflow Training Design | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, where I led training and adoption inside implementations for close to 200 client practices. I assessed what each practice's users needed, built role-based training around their documented clinical workflows, and trained 200+ end users, from providers and nurse practitioners to nurses and medical assistants. I have taught adult learners in hospital settings too: 12+ nurses in a COVID ICU and 500+ staff as an occupational health physician, using SOPs I wrote. I can explain a system to a clinician in their own terms, and to someone with little computer experience in plain language.",
+ "greenway_bullets": [
+  "Led training and adoption within end-to-end EHR implementations for close to 200 client practices, from discovery and workflow documentation through configuration, setup and go-live.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new practice-specific workflows.",
+  "Ran discovery with each practice to document pain points and clinical workflows, then designed and configured workflows and widgets to fit them.",
+  "Wrote PRDs and feature requests from recurring client pain points and worked with product teams to get them built; many shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: defined provider personas, mapped end-to-end clinical workflows and built React prototypes before engineering handoff.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  [
+   "Training and enablement",
+   "EHR end-user training, instructor-led and virtual sessions, training material development, role-based curricula, SOP writing, adult learners"
+  ],
+  [
+   "Implementation",
+   "clinical workflow documentation, current- and future-state mapping, configuration, go-live support, stakeholder communication"
+  ],
+  [
+   "Clinical and tools",
+   "emergency, ICU and ambulatory workflows; patient safety review; AI tools (Claude, ChatGPT, Gemini), React, GitHub, n8n"
+  ]
+ ],
+ "thesis_html": "Clinicians learn a new system fastest when the trainer has <em>worked</em> their shift.",
+ "facts": [
+  [
+   "4 years",
+   "Health tech at Greenway Health"
+  ],
+  [
+   "200+",
+   "EHR users trained"
+  ],
+  [
+   "500+",
+   "Trained in occupational health"
+  ],
+  [
+   "MBBS",
+   "Physician-trained, 2020"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Assessing training needs",
+   "Practice by practice",
+   "Ran discovery with each practice, then shaped training around its documented workflows."
+  ],
+  [
+   "Training mixed audiences",
+   "200+ end users trained",
+   "Providers, nurses and medical assistants with very different computer comfort."
+  ],
+  [
+   "Clinical workflow depth",
+   "Emergency, ICU, ambulatory",
+   "I know the workflows being taught from the clinician's side."
+  ]
+ ],
+ "cases": [
+  "training",
+  "impl",
+  "aiehr"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Sunnybrook_Training_Manager.pdf",
+ "email": "sunny.sampreet@gmail.com"
+}
