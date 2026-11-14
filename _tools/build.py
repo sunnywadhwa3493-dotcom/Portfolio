@@ -6,7 +6,7 @@ Reads   _tools/jobs/<slug>.json
 Writes  jobs/<slug>/index.html and jobs/<slug>/<resume_file>.pdf
 Needs   google-chrome (headless) on PATH.
 """
-import html, json, os, subprocess, sys, tempfile
+import html, json, os, shutil, subprocess, sys, tempfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOOLS = os.path.join(ROOT, "_tools")
@@ -17,6 +17,8 @@ NAME = "Dr. Sampreeth Singh Wadhwa"
 EMAIL = "sampreethwadhwa@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/sampreethsingh/"
 LOCATION = "Fort Erie, Ontario, Canada"
+PHONE = ""  # set only by --local builds; never published
+CHROME = next((c for c in ["google-chrome", "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"] if shutil.which(c) or os.path.exists(c)), "google-chrome")
 
 # ---------- shared resume blocks (facts only) ----------
 OUTLIER = ("AI Evaluation (Freelance), Outlier", "Dec 2025 – Present", [
@@ -74,7 +76,7 @@ def resume_html(job):
     return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>{E(NAME)} – Resume</title><style>{css}</style></head><body>
 <h1>{E(NAME)}</h1>
 <div class="title">{E(job['headline'])}</div>
-<div class="contact">{E(LOCATION)} &nbsp;|&nbsp; {EMAIL} &nbsp;|&nbsp; <a href="{LINKEDIN}">linkedin.com/in/sampreethsingh</a> &nbsp;|&nbsp; <a href="{page_url}">Portfolio</a></div>
+<div class="contact">{E(LOCATION)} &nbsp;|&nbsp; {(PHONE + " &nbsp;|&nbsp; ") if PHONE else ""}{EMAIL} &nbsp;|&nbsp; <a href="{LINKEDIN}">linkedin.com/in/sampreethsingh</a> &nbsp;|&nbsp; <a href="{page_url}">Portfolio</a></div>
 <h2>Summary</h2><p>{E(job['summary'])}</p>
 <h2>Core Skills</h2><ul class="skills">{skills}</ul>
 <h2>{exp_title}</h2>{exp}
@@ -162,31 +164,44 @@ def portfolio_html(job):
 </body></html>"""
 
 
-def build(slug):
+def build(slug, local=False):
     job = json.load(open(os.path.join(TOOLS, "jobs", f"{slug}.json")))
     global EMAIL
     EMAIL = job.get("email", "sampreethwadhwa@gmail.com")
     job["slug"] = slug
-    out = os.path.join(ROOT, "jobs", slug)
+    global PHONE
+    if local:  # private copy with phone, outside the public repo
+        _pf = os.path.expanduser("~/.job_resume_phone")
+        PHONE = os.environ.get("RESUME_PHONE") or (open(_pf).read().strip() if os.path.exists(_pf) else "")
+        if not PHONE:
+            sys.exit("Set RESUME_PHONE or put the number in ~/.job_resume_phone (kept outside the repo)")
+        out = os.path.expanduser(f"~/Documents/Job_Resumes/{slug}")
+    else:
+        PHONE = ""
+        out = os.path.join(ROOT, "jobs", slug)
     os.makedirs(out, exist_ok=True)
-    with open(os.path.join(out, "index.html"), "w") as f:
-        f.write(portfolio_html(job))
+    if not local:
+        with open(os.path.join(out, "index.html"), "w") as f:
+            f.write(portfolio_html(job))
     with tempfile.TemporaryDirectory() as tmp:
         src = os.path.join(tmp, "resume.html")
         with open(src, "w") as f:
             f.write(resume_html(job))
         pdf = os.path.join(out, job["resume_file"])
-        subprocess.run(["google-chrome", "--headless", "--no-sandbox", "--disable-gpu",
+        subprocess.run([CHROME, "--headless", "--no-sandbox", "--disable-gpu",
                         "--no-pdf-header-footer", f"--print-to-pdf={pdf}", src],
                        check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     pages = subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout
     n = [l.split()[-1] for l in pages.splitlines() if l.startswith("Pages")]
-    print(f"{slug}: {BASE_URL}/jobs/{slug}/  resume pages={n[0] if n else '?'}")
+    where = pdf if local else f"{BASE_URL}/jobs/{slug}/"
+    print(f"{slug}: {where}  resume pages={n[0] if n else '?'}")
 
 
 if __name__ == "__main__":
-    slugs = sys.argv[1:]
+    args = sys.argv[1:]
+    local = "--local" in args
+    slugs = [a for a in args if a != "--local"]
     if slugs == ["all"]:
         slugs = sorted(f[:-5] for f in os.listdir(os.path.join(TOOLS, "jobs")) if f.endswith(".json"))
     for s in slugs:
-        build(s)
+        build(s, local)
