@@ -42,10 +42,10 @@ PAWLENTINE = ("Founder, Pawlentine", "Beta testing (iOS and Android)", [
     "Defined personas, user journeys and prioritisation for a pet social and matching app; building it hands-on with an analytics agent and event tracking. The support system runs on a RAG pipeline.",
 ])
 CLINICAL = [
+    "<b>Resident Doctor, Aster CMI</b>, Bengaluru (Aug 2022 – Oct 2026): part-time daytime outpatient clinic work alongside the Greenway role.",
     "<b>Senior Resident, Emergency Medicine, Aster CMI</b>, Bengaluru (Apr 2021 – Jul 2022): quaternary care, Level 1 trauma centre.",
     "<b>ICU Registrar, HBS Hospital</b>, Bengaluru (May 2020 – Jan 2021): worked under a senior doctor in the ICU, treating COVID-19 and other ICU patients; bedside echo, USG, intubation and central lines; trained 12+ nurses.",
     "<b>Occupational Health Physician, Ranger OH Clinic</b> (Jan – Apr 2021): factory occupational health centre, seeing 150 to 200 patients a day; wrote SOPs; trained 500+ people in emergency and safety protocols.",
-    "<b>Teleconsultation Doctor, TATA 1MG</b> and freelance physician, India (Nov 2020 – present): virtual and in-person consultations, chronic disease management.",
 ]
 EDUCATION = ("MBBS, Kempegowda Institute of Medical Sciences (KIMS)", "2020 | Bengaluru, India")
 

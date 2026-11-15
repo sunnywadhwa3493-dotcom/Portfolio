@@ -1,0 +1,34 @@
+{
+ "company": "Unity Health Toronto",
+ "role": "EPR Applications Analyst",
+ "variant": "impl",
+ "headline": "EPR Applications Analyst | Application Support, Ticket Triage, Testing and Workflow Review | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, supporting close to 200 client practices on their EHR: triaging issues, testing changes, configuring workflows and widgets, and training 200+ providers, nurses and medical assistants. I sat on the Patient Safety and Functional Advisory Committees, where we triaged defects and patient safety issues through release, and I turned what users reported into change requests that product teams shipped. I have also worked in a Level 1 trauma ED and a COVID ICU, so ordering, results and documentation are familiar from the clinical side. My support work has been ambulatory and vendor-side; I have not worked in Epic yet.",
+ "greenway_bullets": [
+  "Supported close to 200 client practices on their EHR: took user questions and issues, troubleshot routine problems, escalated complex ones to product and engineering, and followed them through to resolution.",
+  "Documented current workflows during discovery, then configured practice-specific workflows and widgets and tested them before go-live.",
+  "Assessed change and enhancement requests for their impact on clinicians and other modules; many of the features I shaped shipped to clients.",
+  "Triaged defects and patient safety issues from detection through stage-gate release on the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, and kept support materials current.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping across the visit, and React prototypes before engineering handoff."
+ ],
+ "skills": [
+  ["Application support", "ticket triage, troubleshooting and escalation, testing and validation, routine configuration, user access requests, documentation, upgrade and enhancement support"],
+  ["Clinical workflow and safety", "workflow documentation and review, impact assessment, patient safety issue reporting, stage-gate release, end-user education"],
+  ["Clinical and tools", "emergency, ICU and outpatient workflows (ordering, results, documentation); Microsoft Office; AI tools (Claude, ChatGPT, Gemini), React, GitHub"]
+ ],
+ "thesis_html": "Good EPR support means fixing the ticket <em>and</em> the workflow behind it.",
+ "facts": [
+  ["4 years", "EHR support and implementation at Greenway Health"],
+  ["~200", "Client practices implemented"],
+  ["200+", "Clinicians and staff trained"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Operations and support", "~200 client practices", "Triaged, troubleshot and escalated EHR issues for each practice."],
+  ["Safety and testing", "Patient Safety Committee", "Triaged defects and safety issues through stage-gate release."],
+  ["Clinical workflows", "ED, ICU and outpatient", "I know ordering, results and charting from the clinical side."]
+ ],
+ "cases": ["impl", "safety", "training"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
