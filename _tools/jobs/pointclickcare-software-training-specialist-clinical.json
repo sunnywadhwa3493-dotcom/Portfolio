@@ -1,0 +1,71 @@
+{
+ "company": "PointClickCare",
+ "role": "Software Training Specialist (Clinical)",
+ "variant": "impl",
+ "headline": "Software Training Specialist (Clinical) | Client-Facing EHR Training and Go-Live Support | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, where I implemented close to 200 client practices and trained 200+ end users: providers, nurse practitioners, nurses and medical assistants. I built practice-specific workflows before teaching them, and supported setup through go-live. Before that I ran in-person training for 500+ people as an occupational health physician and 12+ nurses in a COVID ICU. I use Claude and other gen-AI tools for training material, prototypes and the two apps I built myself. My clinical background is acute and outpatient care; I have not worked in skilled nursing.",
+ "greenway_bullets": [
+  "Trained 200+ end users across close to 200 client practices, including providers, nurse practitioners, nurses and medical assistants, in remote sessions.",
+  "Ran discovery with each practice to document current workflows, then configured practice-specific workflows and widgets so training matched how the clinic actually works.",
+  "Turned recurring training questions and client pain points into feature requests with product teams; many of those features shipped to clients.",
+  "Triaged defects and patient safety issues through stage-gate release as a member of the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees).",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping and React prototypes before engineering handoff."
+ ],
+ "skills": [
+  [
+   "Training",
+   "client-facing EHR training, virtual sessions, in-person group training, role-based curricula, SOP writing, adult learners, conference presentations"
+  ],
+  [
+   "Implementation",
+   "clinical workflow discovery, configuration, go-live support, issue triage and escalation, customer communication"
+  ],
+  [
+   "Clinical and tools",
+   "ICU, emergency and outpatient workflows; patient safety review; gen-AI tools (Claude, ChatGPT, Gemini), Claude Code, React, GitHub, n8n"
+  ]
+ ],
+ "thesis_html": "People keep using software when the training looks like <em>their</em> shift.",
+ "facts": [
+  [
+   "4 years",
+   "EHR implementation and training at Greenway Health"
+  ],
+  [
+   "~200",
+   "Client practices implemented"
+  ],
+  [
+   "200+",
+   "Clinicians and staff trained on the EHR"
+  ],
+  [
+   "500+",
+   "Trained as an occupational health physician"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Client-facing training",
+   "200+ end users",
+   "Providers, NPs, nurses and MAs at Greenway, plus 500+ trained in person in occupational health."
+  ],
+  [
+   "Workflow first, then training",
+   "~200 practices",
+   "I configured each practice's workflows, so I taught what I built."
+  ],
+  [
+   "Gen-AI proficiency",
+   "Claude, ChatGPT, Gemini",
+   "Training material, prototypes, and two apps I built with AI coding tools."
+  ]
+ ],
+ "cases": [
+  "training",
+  "impl",
+  "aiehr"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
