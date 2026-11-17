@@ -1,0 +1,34 @@
+{
+ "company": "Velox Imaging",
+ "role": "Clinical Product Specialist - Radiology",
+ "variant": "impl",
+ "headline": "Clinical Product Specialist | Clinical Software Testing, Workflow Feedback and Feature Design | MBBS-Trained Physician",
+ "summary": "MBBS-trained physician with four years at Greenway Health, a US EHR company, where I looked at clinical software from the user's side every day. I implemented close to 200 client practices, trained 200+ providers, nurses and medical assistants, and turned their pain points into feature requests that shipped. On the Patient Safety Committee I triaged defects through stage-gate release. Since August 2025 I was clinical lead on a new AI-first EHR, mapping workflows and building React prototypes before engineering handoff. My imaging background is bedside echo and ultrasound in the ICU plus certificate courses in 2D echocardiography and USG abdomen and pelvis; I have not worked as a radiologist or used PACS or RIS.",
+ "greenway_bullets": [
+  "Tested and evaluated EHR features from the clinician's point of view across close to 200 client practices, checking that workflows held up in real clinic days.",
+  "Ran discovery with each practice to document pain points and workflows, then configured practice-specific workflows and widgets; example: a growth-chart widget that flags BMI above a threshold and suggests the relevant Z code for the provider to accept.",
+  "Turned client pain points into feature requests with product teams; many of those features shipped to clients with positive feedback.",
+  "Triaged defects and patient safety issues through stage-gate release on the Patient Safety Committee, Functional Advisory Committee and Clinical Content Team.",
+  "Reviewed clinical literature for EHR content and presented to clients and at the Greenway Engage provider conference (50 attendees).",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, user goals, workflow mapping and React prototypes before engineering handoff."
+ ],
+ "skills": [
+  ["Clinical product", "software testing from the clinical user's side, usability and workflow review, release testing, defect triage, translating clinical needs into features, competitor review"],
+  ["Clinical", "ICU bedside echo and ultrasound; certificate courses in 2D echocardiography and USG abdomen and pelvis; emergency, ICU and outpatient workflows; clinical terminology"],
+  ["Tools", "React prototypes, GitHub, Claude Code, Codex, LLM APIs, n8n"]
+ ],
+ "thesis_html": "Clinical software should be tested by someone who has <em>done the work</em> it supports.",
+ "facts": [
+  ["4 years", "Clinical advisor at a US EHR company"],
+  ["~200", "Client practices implemented"],
+  ["200+", "Clinicians and staff trained"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Test from the clinical side", "Patient Safety Committee", "Triaged defects and safety issues through stage-gate release at Greenway."],
+  ["Clinical needs into features", "Features that shipped", "Client pain points I documented became feature requests, and many shipped."],
+  ["Imaging exposure", "Echo and ultrasound", "Bedside echo and USG in the ICU, plus certificate courses. No radiology practice yet."]
+ ],
+ "cases": ["safety", "impl", "aiehr"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
