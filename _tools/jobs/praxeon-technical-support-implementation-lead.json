@@ -1,0 +1,34 @@
+{
+ "company": "Praxeon Health Technologies",
+ "role": "Technical Support & Implementation Lead",
+ "variant": "impl",
+ "headline": "Implementation and Technical Support Lead | Practice Software Rollouts, Escalations, Playbooks | MBBS-Trained Physician",
+ "summary": "I spent four years at Greenway Health, a US practice-management and EHR company, taking close to 200 client practices from readiness through configuration, training and go-live. I worked directly with practice owners, managers, doctors and front-desk staff, triaged defects with product and engineering, and turned recurring problems into fixes that shipped. I also built and run Roovero, my own SaaS, so I know what an engineering team needs from a support ticket.",
+ "greenway_bullets": [
+  "Led implementations for close to 200 client practices on Greenway's EHR and practice-management software: readiness, workflow discovery, configuration, testing, training and go-live support.",
+  "Worked with practice owners, managers, physicians and administrative staff to document how they actually worked and configure practice-specific workflows and widgets.",
+  "Took client issues from first report to resolution, separated configuration and training problems from real defects, and wrote clear feature requests and bug reports for product teams; many fixes and features shipped.",
+  "Triaged defects and patient safety issues through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, and wrote the guides that kept training consistent.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: mapped clinical workflows and built React prototypes before engineering handoff."
+ ],
+ "skills": [
+  ["Implementation", "readiness assessment, configuration, data and workflow review, testing, go-live and stabilization, post-launch reviews"],
+  ["Support", "issue reproduction, root-cause triage, escalation to engineering, release validation, knowledge-base and playbook writing"],
+  ["Technical", "webhooks and API integrations, Firebase, Next.js, React, GitHub, AI-assisted development with Claude Code and Codex"]
+ ],
+ "thesis_html": "Clinic rollouts that go live cleanly, and <em>stay</em> that way.",
+ "facts": [
+  ["~200", "Client practices implemented"],
+  ["200+", "End users trained"],
+  ["4 years", "Practice software at Greenway Health"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Implementation to go-live", "~200 practices", "Readiness, configuration, training and launch support on practice-management and EHR software."],
+  ["Bridge to engineering", "Defect triage and stage-gate", "I wrote the tickets and sat on the committee that decided what shipped and when."],
+  ["Clinic workflows", "Physician-trained", "I've worked in clinics and I've configured software for them, so I know where workflows break."]
+ ],
+ "cases": ["impl", "training", "safety", "roovero"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}

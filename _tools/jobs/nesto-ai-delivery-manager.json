@@ -1,0 +1,34 @@
+{
+ "company": "nesto",
+ "role": "AI Delivery Manager",
+ "variant": "ai",
+ "headline": "AI Delivery and Implementation | Client Rollouts, Workflow and Policy Scoping, LLM Evaluation | MBBS-Trained Physician",
+ "summary": "I spent four years at Greenway Health running software implementations for close to 200 client practices: discovery, workflow documentation, configuration, go-live and the questions that come after it. I was the clinical lead on Greenway's AI-first EHR, where I scoped which tasks an AI agent could take over and where a human had to stay in charge. I grade frontier models against rubrics I write, and I built Roovero and Pawlentine myself with Claude Code and Codex. Roovero has paying pilot clients.",
+ "greenway_bullets": [
+  "Ran implementations for close to 200 client practices, several at a time, from discovery and workflow documentation through configuration, go-live and follow-up, as the client's main contact.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: mapped workflows, scoped where agentic automation could take routine work off staff and where review had to stay, and built React prototypes before engineering handoff.",
+  "Worked through ambiguous client rules and edge cases with each practice, wrote them down, and turned recurring ones into feature requests that product teams built; many shipped.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new workflows.",
+  "Triaged defects and patient safety issues through stage-gate release as a member of the Patient Safety and Functional Advisory Committees.",
+  "Presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  ["Delivery", "client implementations, discovery, workflow and rule documentation, scope and timelines, go-live, issue triage, client communication"],
+  ["AI", "agentic workflow scoping, LLM evaluation and scoring rubrics, prompt design, multi-model API routing, AI-assisted build with Claude Code and Codex"],
+  ["Tools", "React, GitHub, n8n, Firebase, Next.js, webhooks and billing integrations"]
+ ],
+ "thesis_html": "AI delivery is mostly <em>edge cases</em>. I've spent four years closing them.",
+ "facts": [
+  ["~200", "Client practices implemented"],
+  ["4 years", "Software implementation at Greenway Health"],
+  ["5", "Paying pilot clients on Roovero"],
+  ["200+", "End users trained"]
+ ],
+ "why_fit": [
+  ["Implementation Manager experience", "3-5 years asked; 4 delivered", "Close to 200 client rollouts at Greenway, many running in parallel."],
+  ["Working with the client's own team", "Daily with practice staff", "I sat with providers, nurses and front-desk teams to pin down how their rules really worked."],
+  ["AI that gets the label right", "LLM grading and an AI-first EHR", "I write rubrics that score model answers, and I scoped agent tasks for an AI-first EHR."]
+ ],
+ "cases": ["aiehr", "roovero", "impl", "aieval"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
