@@ -1,0 +1,35 @@
+{
+ "company": "PointClickCare",
+ "role": "Customer Operations Launch Manager (1-year contract)",
+ "variant": "delivery",
+ "headline": "Health-Tech Launch and Customer Operations | EHR Implementation | Physician-Trained",
+ "summary": "Four years at Greenway Health, a US ambulatory EHR company, getting new workflows and features live in real clinics. I implemented close to 200 client practices, trained 200+ providers, nurses and medical assistants, and fed what I saw in the field back to product teams as feature requests, many of which shipped. I worked with Professional Services, Support and Product on defects and patient safety issues through stage-gate release. I also took my own AI product, Roovero, from discovery to launch with paying pilot clients. MBBS-trained physician.",
+ "greenway_bullets": [
+  "Implemented close to 200 client practices: discovery, documenting pain points and workflows, configuring practice-specific workflows and widgets, and supporting setup through go-live.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on new workflows and released features.",
+  "Turned recurring client pain points into feature requests with product teams; many of the features I shaped shipped to clients with positive feedback.",
+  "Sat on the Patient Safety Committee and Functional Advisory Committee: triaged defects and patient safety issues from detection through stage-gate release.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping, scoping agentic automation and React prototypes before engineering handoff.",
+  "Advised product and design on a platform serving 100+ enrolled practices; presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  ["Launch and rollout", "release readiness, early adopters, go-live support, training, status reporting"],
+  ["Customer operations", "implementation, Professional Services and Support hand-offs, client communication"],
+  ["Healthcare systems", "ambulatory EHR, practice management, clinical workflows, patient safety review"],
+  ["Tools", "React, GitHub, Claude Code, Codex, n8n, LLM APIs"]
+ ],
+ "thesis_html": "A launch is done when <em>the clinic is using it on a busy Monday</em>.",
+ "facts": [
+  ["4 years", "Health tech at Greenway Health"],
+  ["~200", "Client practices implemented"],
+  ["200+", "Clinicians and staff trained"],
+  ["MBBS", "Physician-trained, 2020"]
+ ],
+ "why_fit": [
+  ["Rollout", "~200 practices live", "Discovery, configuration, setup and training at each site."],
+  ["Feedback loop", "Field to product", "Client pain points became features that shipped."],
+  ["Launch", "Roovero to paying pilots", "Took my own product from idea to paying customers."]
+ ],
+ "cases": ["impl", "training", "roovero"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
