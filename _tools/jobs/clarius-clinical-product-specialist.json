@@ -1,0 +1,70 @@
+{
+ "company": "Clarius",
+ "role": "Clinical Product Specialist",
+ "variant": "product",
+ "headline": "Physician | Point-of-Care Ultrasound | Clinical Product Specialist",
+ "summary": "MBBS-trained physician who has used ultrasound at the bedside in emergency medicine and critical care: lung ultrasound and bedside echo in a COVID ICU, E-FAST and 2D screening echo in a Level 1 trauma centre, and certificate courses in 2D echocardiography and abdominal and pelvic ultrasound. Four years as the clinical voice for product and design teams on a US EHR, and now reviewing medical images and AI outputs for clinical accuracy.",
+ "greenway_bullets": [
+  "Served as the clinical voice for product and design teams: turned recurring provider pain points into PRDs and feature requests, many of which shipped.",
+  "Reviewed designs and prototypes for clinical accuracy, usability and workflow fit.",
+  "Clinical lead for the new AI-first EHR from Aug 2025: provider personas, end-to-end workflow mapping and React prototypes for engineering handoff.",
+  "Triaged defects and patient safety issues from detection to stage-gate release on the Patient Safety and Functional Advisory Committees.",
+  "Supported adoption across close to 200 client practices and trained 200+ end users."
+ ],
+ "skills": [
+  [
+   "Ultrasound and imaging",
+   "point-of-care ultrasound (lung, cardiac, trauma, abdominal), bedside echo, medical image annotation, interpretation of X-ray, CT and MRI"
+  ],
+  [
+   "Clinical product",
+   "clinical requirements, workflow mapping, prototype and usability review, patient safety triage, clinical content review"
+  ],
+  [
+   "Training and communication",
+   "clinical training, workflow guides, presentations to clients and clinicians"
+  ]
+ ],
+ "thesis_html": "Ultrasound is something I've <em>done</em> at the bedside, not just supported.",
+ "facts": [
+  [
+   "POCUS",
+   "E-FAST, 2D echo, lung ultrasound"
+  ],
+  [
+   "800+",
+   "Critical ICU patients personally managed"
+  ],
+  [
+   "200+",
+   "End users trained at Greenway"
+  ],
+  [
+   "4 years",
+   "Clinical advisor to product teams"
+  ]
+ ],
+ "why_fit": [
+  [
+   "Point-of-care ultrasound",
+   "Used at the bedside",
+   "E-FAST and 2D screening echo in emergency care; lung ultrasound and bedside echo in a COVID ICU."
+  ],
+  [
+   "Clinical product voice",
+   "PRDs that shipped",
+   "Four years turning clinician feedback into requirements, prototype reviews and safety triage."
+  ],
+  [
+   "Image and AI review",
+   "Ultrasound, X-ray, MRI",
+   "Annotating medical images and grading AI outputs for clinical accuracy."
+  ]
+ ],
+ "cases": [
+  "pocus",
+  "aieval",
+  "safety"
+ ],
+ "resume_file": "Sampreeth_Wadhwa_Resume_Clarius.pdf"
+}

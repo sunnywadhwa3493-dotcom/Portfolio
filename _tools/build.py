@@ -87,6 +87,13 @@ def resume_html(job):
 
 # ---------- portfolio case-study library ----------
 CASES = {
+"pocus": """<article class="panel wide"><div class="meta">Emergency medicine · Critical care · Training</div>
+<h3>Ultrasound at the bedside, as the treating physician</h3>
+<ul><li><b>Emergency (Level 1 trauma centre):</b> E-FAST and 2D screening echo, correlated with CT, MRI and X-ray.</li>
+<li><b>COVID ICU:</b> lung ultrasound, bedside echo and USG across 800+ critically ill patients I personally managed.</li>
+<li><b>Formal training:</b> certificate courses in 2D echocardiography and in abdominal and pelvic ultrasound.</li>
+<li><b>Image review for AI:</b> I annotate ultrasound, X-ray, MRI, dermatology and ophthalmology images for medical AI training.</li></ul>
+<div class="loopsteps"><span>E-FAST</span><span>2D echo</span><span>Lung ultrasound</span><span>Abdomen and pelvis</span></div></article>""",
 "impl": """<article class="panel"><div class="meta">Greenway Health · 2022 – 2026</div>
 <h3>EHR implementations, from discovery to adoption</h3>
 <p style="font-size:16px">For close to 200 client practices I ran discovery on their pain points, configured practice-specific workflows and widgets, supported setup and trained 200+ providers, NPs, nurses and medical assistants. Recurring friction became feature requests, and many of them shipped.</p>
