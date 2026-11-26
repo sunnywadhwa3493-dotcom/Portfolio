@@ -1,0 +1,35 @@
+{
+ "company": "Practice Better",
+ "role": "Customer Onboarding Manager",
+ "variant": "delivery",
+ "headline": "Customer Onboarding and Implementation | Practice Management and EHR SaaS | MBBS-Trained Physician",
+ "summary": "Four years at Greenway Health, a US ambulatory EHR and practice management company, getting practices set up and running. I onboarded and supported close to 200 client practices: discovery calls, mapping how each practice actually works, configuring their workflows, supporting setup and training the team. I trained 200+ providers, nurses and medical assistants, and turned what clients struggled with into feature requests that shipped. I also launched my own SaaS product, Roovero, and onboard its paying pilot clients myself. MBBS-trained physician.",
+ "greenway_bullets": [
+  "Onboarded and supported close to 200 client practices: discovery, documenting goals and current workflows, configuring practice-specific workflows and widgets, and supporting setup until the practice was running on its own.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, on setup, daily workflows and new features.",
+  "Managed several practices at once, tracking where each one stood and what it still needed before it could use the system day to day.",
+  "Turned recurring client pain points into feature requests with product teams; many of the features I shaped shipped to clients with positive feedback.",
+  "Worked with Support and Product on defects and patient safety issues through the Patient Safety Committee and Functional Advisory Committee.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: provider personas, workflow mapping and React prototypes before engineering handoff; presented to clients and at the Greenway Engage provider conference."
+ ],
+ "skills": [
+  ["Onboarding", "discovery calls, onboarding plans, setup and configuration, user training, time to value"],
+  ["Customer work", "managing several accounts at once, Support and Success hand-offs, client communication, onboarding documentation"],
+  ["Practice software", "ambulatory EHR, practice management, scheduling and charting workflows, clinical documentation"],
+  ["Tools", "React, GitHub, Claude Code, Codex, n8n, LLM APIs"]
+ ],
+ "thesis_html": "Onboarding is done when the practitioner <em>runs their week in the product without calling us</em>.",
+ "facts": [
+  ["4 years", "Practice software at Greenway Health"],
+  ["~200", "Client practices implemented"],
+  ["200+", "Practitioners and staff trained"],
+  ["5", "Paying pilots on my own SaaS"]
+ ],
+ "why_fit": [
+  ["Practice onboarding", "~200 practices", "Discovery, setup, configuration and training at each one."],
+  ["Practitioner empathy", "MBBS-trained", "I know how a clinician's day runs and where software slows it down."],
+  ["Feedback loop", "Field to product", "Client pain points became features that shipped."]
+ ],
+ "cases": ["impl", "training", "roovero"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
