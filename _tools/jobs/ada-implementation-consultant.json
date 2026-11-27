@@ -1,0 +1,35 @@
+{
+ "company": "Ada",
+ "role": "Implementation Consultant",
+ "variant": "ai",
+ "headline": "AI Implementation and Customer Onboarding | Workflow and Decision-Logic Design | API Integrations | MBBS-Trained Physician",
+ "summary": "I spent four years at Greenway Health implementing software for close to 200 client practices: discovery, mapping how each team actually worked, configuring workflows and conditional logic, go-live and the troubleshooting after it. From August 2025 I was the clinical lead on an AI-first EHR, scoping which steps an AI agent could take over and where a person had to stay in the loop. I built Roovero and Pawlentine myself with Claude Code and Codex, including API and webhook integrations, and Roovero has paying pilot clients. I also grade ChatGPT, Gemini and Claude against rubrics I write.",
+ "greenway_bullets": [
+  "Ran implementations for close to 200 client practices as their main contact, from discovery and workflow documentation through configuration, go-live and follow-up.",
+  "Designed and configured practice-specific workflows and widgets with conditional logic, for example a growth-chart widget that flags a BMI above a threshold and suggests the matching billing code for the provider to accept.",
+  "Clinical lead for a new AI-first EHR from Aug 2025: mapped workflows, scoped where agentic automation could take routine work off staff, and built React prototypes before engineering handoff.",
+  "Trained 200+ end users, including providers, nurse practitioners, nurses and medical assistants, and explained configuration choices in plain terms to non-technical teams.",
+  "Turned recurring client pain points into feature requests with product teams; many shipped to clients with positive feedback.",
+  "Triaged defects and patient safety issues through stage-gate release on the Patient Safety and Functional Advisory Committees.",
+  "Presented to clients and at the Greenway Engage provider conference (50 attendees)."
+ ],
+ "skills": [
+  ["Implementation", "discovery, workflow mapping, decision-tree and conditional-logic design, configuration, go-live, troubleshooting, training"],
+  ["AI and integrations", "LLM APIs, multi-model routing, prompt design, model evaluation rubrics, webhooks, Instagram Graph API, Razorpay billing, n8n"],
+  ["Tools", "React, GitHub, Claude Code, Codex, Firebase, Next.js"]
+ ],
+ "thesis_html": "An AI agent is only as good as the <em>workflow</em> it was set up for.",
+ "facts": [
+  ["~200", "Client practices implemented"],
+  ["4 years", "Software implementation at Greenway Health"],
+  ["5", "Paying pilot clients on Roovero"],
+  ["200+", "End users trained"]
+ ],
+ "why_fit": [
+  ["Implementation consulting", "3+ years asked; 4 delivered", "Close to 200 client rollouts at Greenway, from kickoff to go-live."],
+  ["Logic workflows and data flows", "Conditional widgets and API integrations", "I configured rule-driven workflows for clinics and wired APIs and webhooks into Roovero myself."],
+  ["GenAI experience", "AI-first EHR and Roovero", "I scoped agent tasks for an AI-first EHR and shipped my own AI product to paying clients."]
+ ],
+ "cases": ["aiehr", "roovero", "impl", "aieval"],
+ "resume_file": "Sampreeth_Wadhwa_Resume.pdf"
+}
